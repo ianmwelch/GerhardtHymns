@@ -1,6 +1,6 @@
 name: The Gerhardt Hymnal
 version: 3.0.3
-baseurl: /GerhardtHymns
+url: https://gerhardthymns.com
 future: true
 
 author:
