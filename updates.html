@@ -1,0 +1,19 @@
+---
+layout: index
+title: News and Updates
+permalink: /updates/
+---
+
+<p>Subscribe with <a href="/rss/">RSS</a> to keep up with the latest updates.</p>
+
+<div class="changelog">
+	{% for change in site.posts %}
+		<hr>
+		<div class="changelog-item">
+			<h2><a href="{{ change.url }}">{{ change.title }}</a></h2>
+			<p><span class="date">{{ change.date | date: "%B %d, %Y" }}</span></p>
+
+			{{ change.content }}
+		</div>
+	{% endfor %}
+</div>

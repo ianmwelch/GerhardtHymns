@@ -1,0 +1,13 @@
+---
+title: Crüger, Johann (1598-1662)
+section: Authors
+author: c
+---
+
+Crüger, Johann (1598–1662), the son of a prosperous innkeeper and grandson of the local pastor, was born on April 9, 1598, in the Prussian village of Gross-Breesen, near Guben, in Brandenburg. He attended schools at Guben, Sorau, and Breslau and was further educated at the Jesuit college in Olmütz. At the school of poetry in Regensburg, he studied music with the cantor Paulus Homberger, who had been a pupil of Giovanni Gabrieli (c. 1533–1612), the famous organist and composer at St. Mark’s in Venice. After traveling extensively throughout Austria, Hungary, Moravia, and Bohemia, he was for a brief time at Freiberg in Saxony and then became tutor at Berlin in the family of Colonel Christoph von Blumenthal (1615–1620), captain of the royal guard of Elector Frederick Wilhelm I of Brandenburg. He then studied theology and music for two years at Wittenberg University. For the next 40 years (1622–1662), he served as cantor and organist of St. Nicolaikirche in Berlin, where he died on February 23, 1662. One of his colleagues at St. Nicolai was Paul Gerhardt, who came there as deacon in 1657. Crüger was also for many years one of the teachers at the Gymnasium zum Grauen Kloster in Berlin.
+
+He was well known in his day as a significant cantor; editor; author of a number of treatises on the theory and practice of music; and composer of concertos, motets, Magnificats, and chorale melodies. He created or adapted at least 122 chorale tunes, 21 of them set to the texts of [Paul Gerhardt](/authors/gerhardt), for the German Lutheran Church and thus was the most significant composer of chorale melodies in the 17th century. He published the following five influential collections of hymns and hymn settings, which were used in both church and home and which were among the first to feature the new figured bass technique in a collection of hymns: *[Praxis Pietatis Melica: Das ist Ubung der Gottseligkeit in Christlichen und Trostreichen Gesängen](/sources/praxis)* (c. 1640), which by 1736 had run through a total of 45 editions in Berlin and 12 in Frankfurt, thus being the most important contribution to 17th-century German hymnody; *Newes vollkömliches Gesangbuch Augsburgischer Confession* (1640), which contained 240 chorale texts and 137 melodies, 18 of which are Crüger’s; *Geistliche Kirchen-Melodien* (1649), a collection of polyphonic settings, which is now lost; *Psalmodia Sacra* (1658), which included 319 four-part hymns with 184 tunes and accompaniment with three instruments; and *D. M. Luthers und anderer vornehmen geistreichen und gelehrten Männer Geistliche Lieder und Psalmen* (1653), containing 92 tunes without texts.
+
+
+​			
+​		

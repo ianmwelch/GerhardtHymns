@@ -1,0 +1,22 @@
+table {
+	font-family: "ff-meta-serif-web-pro", serif;
+	width: 100%;
+	margin-bottom: 1em;
+}
+
+tr {
+	border-bottom: 0px solid #fff;
+}
+
+tr:nth-child(even) {
+	background: #fff;
+}
+
+td, th {
+	padding-right: 4px;
+	text-align: left;
+}
+
+th {
+	padding-bottom: 4px;
+}

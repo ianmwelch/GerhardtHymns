@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<section class="main">
+	<div class="page-header">
+		<h6><a href="{{ page.link | prepend: site.baseurl }}">< Go to {{ page.hymn }}</a></h6><br>
+		<h2>{% if page.title %}{{ page.title }}{% else %}Document{% endif %}</h2>
+		<h3>{% if page.heading %}{{ page.heading }}{% else %}{{ page.section }}{% endif %}</h3>
+	</div>
+	<article class="content">
+		{{ content }}
+	</article>
+</section>

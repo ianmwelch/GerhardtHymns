@@ -1,0 +1,29 @@
+name: The Gerhardt Hymnal
+version: 3.0.3
+url: https://gerhardthymns.com
+future: true
+
+author:
+  name: Ian M. Welch
+  email: 
+
+builds:
+  - Any
+  - Static
+  - Jekyll
+
+plans:
+  - Free
+  - Basic
+  - Agency
+  - Enterprise
+
+hostings:
+  - Any
+  - CloudCannon
+
+defaults:
+- scope:
+    path: ""
+  values:
+    layout: docs
