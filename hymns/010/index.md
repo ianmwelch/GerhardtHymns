@@ -2,7 +2,7 @@
 title: Nun laßt uns gehn und treten
 section: Text and Translations
 ---
-Most likely written during the Thirty Years' War. It first appeared in [Crüger's](/authors/crüger) *Praxis pietatis melica*, 1653, no. 106, in 15 stanzas of 4 lines. Later in [Ebeling's](authors/ebeling) *Pauli Gerhardi Geistliche Andachten*, 1666/67, no. 58, and [Feustking's](/authors/feustking) *Pauli Gerhardi Geistreiche Hauss- und Kirchen-Lieder*, 1707, p. 20.
+Most likely written during the Thirty Years' War. It first appeared in [Crüger's](/authors/crüger) *Praxis pietatis melica*, 1653, no. 106, in 15 stanzas of 4 lines. Later in [Ebeling's](/authors/ebeling) *Pauli Gerhardi Geistliche Andachten*, 1666/67, no. 58, and [Feustking's](/authors/feustking) *Pauli Gerhardi Geistreiche Hauss- und Kirchen-Lieder*, 1707, p. 20.
 
 ##### Nun laßt uns gehn und treten
 
