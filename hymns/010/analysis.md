@@ -35,3 +35,54 @@ This is then followed by a statement of praise at the central point of the hymn,
 
 
 
+*Notes on 8:* 
+
+Isaiah 12:3
+
+> You will joyfully draw water  
+> from the springs of salvation, (HCSB)
+
+Psalm 87:7
+
+> Then those who sing as well as those who play the flutes shall say, "All my springs of joy are in you." (NASB)
+
+Luke 9:23
+
+> Then he said to them all: “Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me. (NIV)
+
+
+
+*Notes on 9:* 
+
+James 5:7-11
+
+2 Thessalonians 3:5
+
+> And the Lord direct your hearts into the love of God, and into the patient waiting for Christ. (KJV)
+
+
+
+*Notes on 10:*
+
+Isaiah 3:26
+
+> The gates of Zion will lament and mourn;  
+> destitute, she will sit on the ground. (NIV)
+
+Psalm 46:4
+
+> There is a river—  
+> its streams delight the city of God,  
+> the holy dwelling place of the Most High. (HCSB)
+
+
+
+*Notes on 11:*
+
+*Notes on 12:*
+
+*Notes on 13:*
+
+*Notes on 14:*
+
+*Notes on 15:*
