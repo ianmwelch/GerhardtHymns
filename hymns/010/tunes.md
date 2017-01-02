@@ -6,7 +6,7 @@ category: new year
 
 ## <span style="font-variant:small-caps;">nun lasst uns gott, dem herren</span>
 
-The tune most commonly associated with this text has a long and interesting history. The melody originates from Nicolaus Selnecker's *Christliche Psalmen, Lieder, und Kirchengesänge* (1587) in which he set music to Ludwig Helmbold's "Nun laßt und Gott dem Herren." Selnecker's melody, however, is a variation of the descant melody of the hymn found in Helmbod's *Geistliche Lieder, den Gottseligen Christen zugericht* (1575). 
+The tune most commonly associated with this text has a long and interesting history. The melody originates from Nicolaus Selnecker's *Christliche Psalmen, Lieder, und Kirchengesänge* (1587) in which he set music to Ludwig Helmbold's "Nun laßt uns Gott dem Herren." Selnecker's melody, however, is a variation of the descant melody of the hymn found in Helmbod's *Geistliche Lieder, den Gottseligen Christen zugericht* (1575). 
 
 In 1649, [Johann Crüger](/authors/crüger) introduced some modifications to Selnecker's melody in his *Geistliche Kirchen-Melodien* (Zahn 159). The tune was tied to Gerhardt's "Wach auf, mein Herz, und singe," and as a result, the tune can be sometimes quoted as <span style="font-variant:small-caps;">wach auf, mein herz, und singe</span>, or <span style="font-variant:small-caps;">awake</span>. The tune name, <span style="font-variant:small-caps;">nun lasst uns gott, dem herren</span>, is far more common, especially in Germany. In some rare instances, the tune is called <span style="font-variant:small-caps;">selnecker</span>.
 
