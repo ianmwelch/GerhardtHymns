@@ -46,7 +46,7 @@ layout: hymn
 12. The weary, burdened pilgrims bless,  
    The erring ones restore,  
    Thou Father of the fatherless,  
-   Thour Helper of the poor!  
+   Thou Helper of the poor!  
 13. Heal Thou the sick, and help the sad,  
    Give thoughts of blessed peace;  
    The souls that are cast down make glad  
@@ -54,7 +54,7 @@ layout: hymn
 14. And more than all Thy gifts in worth  
    Be Thy good Spirit giv'n,  
    To beautify our souls on earth,  
-   And guid us safe to heav'n!  
+   And guide us safe to heav'n!  
 15. Whate'er we do, where'er we go,  
    Thou Life of life be near;  
    And more than all we ask, bestow,  
