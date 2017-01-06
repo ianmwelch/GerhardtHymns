@@ -23,14 +23,14 @@ layout: hymn
    And make Thy gracious pleasure known  
    How I may greet Thee best.  
 
-2.  Her budding boughs and fairest palms
-   Thy Zion strews around;
-   And songs of praise and sweetest psalms
-   From my glad heart shall sound.
-   My desert soul breaks forth in flowers,
-   Rejoicing in Thy fame;
-   And puts forth all her sleeping powers,
-   To honor Jesus’ name.
+2. Her budding boughs and fairest palms  
+   Thy Zion strews around;  
+   And songs of praise and sweetest psalms  
+   From my glad heart shall sound.  
+   My desert soul breaks forth in flowers,  
+   Rejoicing in Thy fame;  
+   And puts forth all her sleeping powers,  
+   To honor Jesus’ name.  
 
 3. In heavy bonds I languished long,  
    Thou com’st to set me free;  
@@ -93,7 +93,7 @@ layout: hymn
    O Sun of Righteousness! arise,  
    And guide us on our way,  
    To yon fair mansion in the skies  
-   Of joyous, cloudless day.
+   Of joyous, cloudless day.  
 
    ​
 
