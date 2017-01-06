@@ -30,9 +30,9 @@ James Alexander in Philip Schaff's *Kirchenfreund*, 1850, p. 176, *Christ in Son
 
 [Catherine Winkworth](/authors/winkworth) in *Lyra Germanica*, 1855, p. 7. [Text](/hymns/001/text/winkworth-1) \| [Scan](/hymns/001/scans/winkworth-1.pdf)
 
-##### Oh! how shall I receive Thee
+##### Oh, how shall I receive Thee
 
-In the 1857 edition of Mercer's *Church Psalter and Hymn Book* with stanzas 1 and 2 based roughly on Russell and stanzas 3–5 based on Jacobi. Translation of Gerhardt's 1, 2, 4–6. [Text](/hymns/001/text/mercer) \| [Scan](/hymns/001/scans/mercer.pdf)
+In the 1857 edition of Mercer's *Church Psalter and Hymn Book* with stanzas 1 and 2 based roughly on Russell and stanzas 3–5 based on Jacobi. Translation of Gerhardt's 1, 2, 4–6. [Text](/hymns/001/text/anonymous) \| [Scan](/hymns/001/scans/anonymous.pdf)
 
 ##### Ah! Lord, how shall I meet thee
 

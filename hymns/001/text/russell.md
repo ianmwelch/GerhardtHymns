@@ -14,9 +14,6 @@ link: /hymns/001
 layout: hymn
 ---
 
-Arthur T. Russell, 1851  
-_Psalms and Hymns_, no. 36
-
 1. Oh, how shall I receive Thee:  
    how meet Thee on Thy way  
    Blest hope of every nation;  
