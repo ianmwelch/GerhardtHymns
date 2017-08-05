@@ -51,8 +51,8 @@ The tune has been universally accepted with "Nun laßt uns gehn und treten" sinc
 
 #### 7. Ian Matthew Welch (2016)
 
-*Two musical settings based on Crüger*  
-[Sheet Music](/hymns/010/music/010-welch.pdf)
+*Two musical settings based on Crüger's work*  
+[Sheet Music](/hymns/010/music/010-welch.pdf) \| Audio 1 \| Audio 2 \|   
 
 ## <span style="font-variant:small-caps;">ebeling 58</span>
 
