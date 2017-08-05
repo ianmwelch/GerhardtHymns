@@ -94,11 +94,27 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 <h3></h3>
 
+#### Wach auf, mein Herz, und singe 35
+
+194.12 <span style="font-variant:small-caps;">nun laßt uns gott dem herren</span>
+
+#### Die güldne Sonne 37
+
+451 <span style="font-variant:small-caps;">die güldne sonne</span>
+
 
 
 ### evening
 
 <h3></h3>
+
+#### Nun ruhen alle Wälder 38
+
+392 <span style="font-variant:small-caps;">o welt, ich muß dich lassen</span>
+
+#### Der Tag mit seinem Lichte 39
+
+448 <span style="font-variant:small-caps;">der tag mit seinem lichte</span>
 
 
 
@@ -106,17 +122,59 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 <h3></h3>
 
+#### Weg, mein Herz, mit den Gedanken 51
+
+32.6 <span style="font-variant:small-caps;">freu dich sehr, o meine seele</span>
+
 
 
 ### cross and comfort
 
 <h3></h3>
 
+#### Nicht so traurig, nicht so sehr 72
+
+384 <span style="font-variant:small-caps;">nicht so traurig, nicht so sehr</span>  
+489 <span style="font-variant:small-caps;">nicht so traurig, nicht so sehr</span>
+
+#### Ich hab in Gottes Herz und Sinn 73
+
+65.7 <span style="font-variant:small-caps;">was mein gott will, das g’scheh allzeit</span>  
+92 <span style="font-variant:small-caps;">was mein gott will, das g’scheh allzeit</span>
+
+#### Barmherziger Vater, höchster Gott 79
+
+103.6 <span style="font-variant:small-caps;">was mein gott will, das g’scheh allzeit</span>
+
+#### Schwing dich auf zu deinem Gott 81
+
+40.6 <span style="font-variant:small-caps;">schwing dich auf zu deinem gott</span>
+
+#### Warum sollt' ich mich denn grämen 83
+
+228.2 Motet
+
+#### Befiehl du deine Wege 84
+
+153.5 <span style="font-variant:small-caps;">befiehl du deine wege</span>  
+244.44 <span style="font-variant:small-caps;">befiehl du deine wege</span>  
+270–271 <span style="font-variant:small-caps;">befiehl du deine wege</span>
+
+#### Gib dich zufrieden und sei stille 94
+
+315 <span style="font-variant:small-caps;">gib dich zufrieden und sei stille</span>  
+460 <span style="font-variant:small-caps;">gib dich zufrieden und sei stille</span>  
+510–512 <span style="font-variant:small-caps;">gib dich zufrieden und sei stille</span>
+
 
 
 ### praise and thanks
 
 <h3></h3>
+
+#### Nun danket all' und bringet Ehr' 96
+
+195.6 <span style="font-variant:small-caps;">lobt gott, ihr christen, allzugleich</span>
 
 
 
