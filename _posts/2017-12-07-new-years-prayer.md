@@ -14,7 +14,7 @@ layout: index
 |      |                                          |
 | 2    | We journey and wander from day to day,   |
 |      | and live and thrive from one year to the next — |
-| 3    | **through fear and plague, through shivering and trembling,** |
+| 3    | **through depression and plague, through fear and trepidation,** |
 |      | **through war and great horrors that cover the whole world.** |
 |      |                                          |
 | 4    | For just as faithful mothers diligently protect their children |
