@@ -10,8 +10,8 @@ meter: 76 76 D
 scripture:
 firstline: h
 number: 1
-link: /hymns/001
-layout: hymn
+link: /hymns/001/text
+layout: hymntext
 ---
 
 1. How shall I meet Thee? How my heart  

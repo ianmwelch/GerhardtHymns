@@ -1,6 +1,6 @@
 ---
 title: Colophon
-section: Information
+layout: about
 ---
 
 The serif font used in this book is <span style="font-variant:small-caps;">[meta serif](https://www.fontshop.com/families/ff-meta-serif)</span>

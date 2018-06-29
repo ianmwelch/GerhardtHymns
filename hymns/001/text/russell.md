@@ -10,8 +10,8 @@ meter: 76 76 D
 scripture:
 firstline: o
 number: 1
-link: /hymns/001
-layout: hymn
+link: /hymns/001/text
+layout: hymntext
 ---
 
 1. Oh, how shall I receive Thee:  

@@ -10,8 +10,8 @@ meter: 77 77
 scripture:
 firstline: n
 number: 10
-link: /hymns/010
-layout: hymn
+link: /hymns/010/text
+layout: hymntext
 ---
 
 1. Nun laßt uns gehn und treten  

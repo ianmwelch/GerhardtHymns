@@ -10,8 +10,8 @@ meter:
 scripture:
 firstline: o
 number: 10
-link: /hymns/010
-layout: hymn
+link: /hymns/010/text
+layout: hymntext
 ---
 
 *Unable to find*

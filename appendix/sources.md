@@ -1,6 +1,7 @@
 ---
 title: Primary Sources
 section: Appendix
+layout: appendix
 ---
 
 When possible, primary sources are used and scans of that source offered. For the text of Gerhardt's hymns, three primary sources are used:

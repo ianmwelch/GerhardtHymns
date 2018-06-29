@@ -1,6 +1,7 @@
 ---
 title: Gerhardt's Last Will and Testament
 section: Appendix
+layout: appendix
 ---
 
 [Paul Gerhardt's](/authors/gerhardt) last will and testament is a fascinating glimpse into the mind of God's servant. Here Gerhardt does not entrust earthly blessings to his only heir, which we would find to be quite common, but spiritual instructions. 

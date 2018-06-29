@@ -10,8 +10,8 @@ meter: 77 77
 scripture:
 firstline: y
 number: 10
-link: /hymns/010
-layout: hymn
+link: /hymns/010/text
+layout: hymntext
 ---
 1. Year after year commenceth,  
    And, as our life advanceth,  

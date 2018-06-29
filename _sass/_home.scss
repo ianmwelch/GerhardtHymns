@@ -1,0 +1,61 @@
+
+.home {
+
+	position: relative;
+	margin: auto;
+	width: 100%;
+	max-width: 700px;
+
+	h1 {
+	font-size: 2.2rem;
+	font-variant: small-caps;
+	text-transform: lowercase;
+	padding-bottom: 20px;
+	}
+
+	h2 {
+		font-family: 'ff-meta-serif-web-pro', serif;
+		font-size: 1.2rem;
+		margin-bottom: 5px;
+
+		a {
+			color: #000;
+		}
+
+		a:hover {
+			transition: all 0.2s ease;
+			color: $brand-color;
+		}
+	}
+
+	h3 {
+		font-size: 1rem;
+		font-variant: small-caps;
+		color: $brand-color;
+	}
+
+	h4 {
+		font-size: 1rem;
+		float: left;
+
+		a {
+			padding-right: 40px;
+			color: #000;
+		}
+
+		a:hover {
+			color: $brand-color;
+			transition: all 0.2s ease;
+		}
+	}
+
+	hr {
+		display: block;
+		clear: both;
+		height: 1px;
+		border: 0;
+		border-top: #000 1px solid;
+		margin: 2em 0;
+		padding: 0;
+}
+}

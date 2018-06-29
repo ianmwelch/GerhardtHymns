@@ -2,12 +2,25 @@
 layout: default
 ---
 
-<section class="main">
-	<div class="page-header">
-		<h2>{% if page.title %}{{ page.title }}{% else %}Document{% endif %}</h2>
-		<h3>{% if page.heading %}{{ page.heading }}{% else %}{{ page.section }}{% endif %}</h3>
+<header class="short">
+	{% include navigation/top.html %}
+</header>
+
+<div class="dark-content docs-container">
+	<div class="wrapper wrapper-large">
+			{% include sidebar/indexes.html %}
+		<section class="docs-main" id="doc">
+			<article class="content">
+				<h1>{{ page.title }}</h1>
+				<p class="docs-category">{% if page.section %}{{ page.section }}{% else %}{{ site.display_title }}{% endif %}</p>
+
+				<div>{{ content }}</div>
+
+			</article>
+		</section>
 	</div>
-	<article class="content">
-		{{ content }}
-	</article>
-</section>
+</div>
+
+<script>
+	{% include autofocus.js %}
+</script>

@@ -10,18 +10,18 @@ meter: 77 77
 scripture:
 firstline: n
 number: 10
-link: /hymns/010
-layout: hymn
+link: /hymns/010/text
+layout: hymntext
 ---
 
 1. Now let each humble creature  
    Adore the God of nature,  
    For his kind preservation  
-   And daily new creation.  
+   And daily new creation.
 2. We stretch our life and wander  
    From year to year, and yonder  
    We live, keep on improving,  
-   Till date and year's removing.  
+   Till date and year's removing.
 3. Thro' pains, thro' wants and errors,  
    Thro' dismal wars and terrors,  
    Thro' crosses, strifes and hurry,  

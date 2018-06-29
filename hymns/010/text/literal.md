@@ -3,8 +3,8 @@ title: Literal Translation
 hymn: Nun laßt uns gehn und treten
 section: Text and Translations
 category: New Year
-link: /hymns/010
-layout: hymn
+link: /hymns/010/text
+layout: hymntext
 ---
 
 1. Now let us come and go  

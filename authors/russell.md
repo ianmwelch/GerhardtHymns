@@ -2,6 +2,7 @@
 title: Russell, Arthur Tozer (1806–1874)
 section: Authors
 author: r
+layout: index
 ---
 
 Russell, Arthur Tozer, M.A., born 1806, educated at Manchester College, York, and St. John's College, Cambridge. In 1829 he was ordained by the bishop of Lincoln. He was the author of many works covering a wide range of subjects of a religious nature, and his original hymns and translations have found their way into many hymnals. In 1848 various of his own hymns, original and translated from the German, appeared in *Hymns for Public Worship*, and in 1851 appeared in *Psalms and Hymns*. He died in 1874.

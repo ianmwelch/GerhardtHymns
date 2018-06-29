@@ -10,8 +10,8 @@ meter: 77 77
 scripture:
 firstline: w
 number: 10
-link: /hymns/010
-layout: hymn
+link: /hymns/010/text
+layout: hymntext
 ---
 
 1. With notes of joy and songs of praise,  

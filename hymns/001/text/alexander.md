@@ -10,8 +10,8 @@ meter: 76 76 D
 scripture:
 firstline: l
 number: 1
-link: /hymns/001
-layout: hymn
+link: /hymns/001/text
+layout: hymntext
 ---
 
 1. Lord, how shall I be meeting,  

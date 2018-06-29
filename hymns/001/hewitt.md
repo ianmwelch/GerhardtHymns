@@ -1,6 +1,7 @@
 ---
 title: Wie soll ich dich empfangen
 section: Hewitt Commentary
+layout: hymn
 ---
 
 The first hymn in the *Psalmodia Germanica* of Jacobi (1722) is a translation of Luther's "Nun kommt der Heiden Heiland" ("Now the Savior comes indeed"). The second place in the book is given to Gerhardt's "Wie soll ich dich empfangen" which is translated as " How shall I meet my Savior." In a rather quaint preface Jacobi writes:

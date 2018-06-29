@@ -1,126 +1,20 @@
 ---
-section: Metrical Index
+title: Warum willst du draußen stehen
+category: advent
+number: 2
+year: 1653
+meter: 87 87 77 88
+stanzas: 12
+scripture: Genesis 24:31
+cruger: 158.82
+ebeling: 50
+feustking: 5
+zahn: 6559 (Crüger)
+bwv: —
+layout: hymndata
 ---
+<br>
 
-### 55 55 10 55 55 10
+#### [Text and Translations ➔](/hymns/002/text)
 
-###### [Die güldne Sonne, voll Freud und Wonne **37**](/link)
-
-### 66 66 6
-
-###### [Herr, höre was mein Mund **52**](/link)
-
-### 66 66 67 67
-
-###### [Du liebe Unschuld du **76**](/link)
-
-### 66 77 77
-
-###### [Nun ist der Regen hin! **42**](/link)  
-###### [Herr, was hast du im Sinn **93**](/link)  
-###### [Mein Gott, ich habe mir **114**](/link)  
-###### [Die Zeit ist nunmehr nah **120**](/link)  
-
-### 67 67 66 66
-
-### 69 96 99
-
-### 76 76 66 66
-
-### 76 76 67 76
-
-### 76 76 D
-
-### 77 77
-
-### 77 77 556 67
-
-### 77 77 77
-
-### 77 77 77 88
-
-### 77 77 777
-
-### 77 77 88 7
-
-### 77 776 D
-
-### 77 88
-
-### 776 778
-
-### 78 78 10 10
-
-### 78 78 76 76 76 76
-
-### 78 87 88
-
-### 8 11 8 11
-
-### 8 33 6 D
-
-### 847 847 44 44 7
-
-### 86 86
-
-### 86 86 D
-
-### 87 87 447
-
-### 87 87 447 447
-
-### 87 87 65 56 7
-
-### 87 87 77
-
-### 87 87 77 88
-
-### 87 87 87 447
-
-### 87 87 87 467
-
-### 87 87 87 877
-
-### 87 87 877 877
-
-### 87 87 88
-
-### 87 87 88 77
-
-### 87 87 887
-
-### 87 87 887 887
-
-### 877 877
-
-### 88 6 88
-
-### 88 77
-
-### 88 87
-
-### 88 88
-
-### 88 88 4
-
-### 88 88 88
-
-### 88 88 99 99
-
-### 884 887 447
-
-### 887 87
-
-### 887 887
-
-### 887 887 22 44 48
-
-### 887 887 D
-
-### 98 98 45 455
-
-### 11 11 11 5
-
-### 12 13 12 13
-
-### 13 13 12 12
+*A collection of the source texts and known translations.*

@@ -1,6 +1,7 @@
 ---
 title: Nun laßt uns gehn und treten
 section: Analysis
+layout: hymn
 ---
 
 ## Form 

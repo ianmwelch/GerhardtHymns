@@ -2,6 +2,7 @@
 title: Winkworth, Catherine (1827–1878)
 section: Authors
 author: w
+layout: index
 ---
 
 Winkworth, Catherine (1827–1878), was the fourth and youngest daughter in a family of six children born to Henry Winkworth, a silk merchant at Alderley Edge in Cheshire, England. She was born on September 13, 1827, at Ely Place, Holborn, in London but spent most of her childhood and youth near Manchester. Robin Leaver, in his book *Catherine Winkworth: The Influence of Her Translations on English Hymnody* (1978) confirms the 1827 birthdate with the comment “not 1829 as in Julian.” All in her family were very devout members of the Church of England, and her home was filled with with much prayer and hymn singing. Most of Catherine’s education was received at home through governesses and private tutors, including Rev. William Gaskell, with whom she studied German, chemistry, music, Greek, astronomy, and philosophy. After her mother’s death in 1841 and her father’s remarriage in 1845, she and her sister Selina went to live with an aunt in Dresden. Her stay in Germany kindled her interest translating German into English and increased her ability.

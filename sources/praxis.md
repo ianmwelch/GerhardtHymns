@@ -2,6 +2,7 @@
 title: Praxis pietatis melica
 section: Sources
 source: p
+layout: index
 ---
 
 *Praxis pietatis melica* (Practice of Piety in Song) is a Protestant hymnal first published in the 17th century by [Johann Crüger](/authors/crüger). The hymnal, which appeared under this title from 1647 to 1737 in 45 editions, has been described as "the most successful and widely-known Lutheran hymnal of the 17th century".[^1] Crüger composed melodies to texts that were published in the hymnal and are still sung today, including "Jesu, meine Freude", "Herzliebster Jesu" and "Nun danket alle Gott". Between 1647 and 1661, Crüger first printed 90 songs by his friend Paul Gerhardt.

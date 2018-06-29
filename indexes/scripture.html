@@ -1,0 +1,14 @@
+---
+title: Scripture
+layout: index
+---
+
+{% assign pages = site.pages | sort: 'scripture' %}
+
+<h5>genesis</h5>
+{% assign sortedpages = site.pages | sort: 'scripture' %}
+{% for page in sortedpages %}
+  {% if page.scripture contains "Genesis" %}
+  <h6><a href="{{ page.url | prepend: site.baseurl }}">{{ page.scripture }} &emsp; <b>{{ page.number }}</a></h6>
+  {% endif %}
+{% endfor %}

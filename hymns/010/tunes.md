@@ -2,6 +2,7 @@
 title: Nun laßt uns gehn und treten
 section: Tunes and Settings
 category: new year
+layout: hymn
 ---
 
 ## <span style="font-variant:small-caps;">nun lasst uns gott, dem herren</span>

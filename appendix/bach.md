@@ -1,6 +1,7 @@
 ---
 title: Bach and Gerhardt
 section: Appendix
+layout: appendix
 ---
 
 [Johann Sebastian Bach](/authors/bach) (1685–1750) used several of [Paul Gerhardt's](/authors/gerhardt) stanzas in cantatas, motets, his Christmas Oratorio, and Passions. In most cases single stanzas are used or slightly paraphrased. Bach's chorale cantata, BWV 92, uses Gerhardt's [*Ich hab in Gottes Herz und Sinn*](/hymns/073) almost in its entirety—omitting a couple stanzas (9 out of 12 total) and paraphrasing a few.
@@ -11,7 +12,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 <hr>
 
-### christmas
+##### christmas
 
 <h3></h3>
 
@@ -38,7 +39,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 
 
-### passion
+##### passion
 
 <h3></h3>
 
@@ -55,7 +56,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 
 
-### easter
+##### easter
 
 <h3></h3>
 
@@ -65,7 +66,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 
 
-### pentecost
+##### pentecost
 
 <h3></h3>
 
@@ -80,7 +81,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 
 
-### trinity
+##### trinity
 
 <h3></h3>
 
@@ -90,7 +91,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 
 
-### morning
+##### morning
 
 <h3></h3>
 
@@ -104,7 +105,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 
 
-### evening
+##### evening
 
 <h3></h3>
 
@@ -118,7 +119,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 
 
-### repentance
+##### repentance
 
 <h3></h3>
 
@@ -128,7 +129,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 
 
-### cross and comfort
+##### cross and comfort
 
 <h3></h3>
 
@@ -168,7 +169,7 @@ Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and
 
 
 
-### praise and thanks
+##### praise and thanks
 
 <h3></h3>
 

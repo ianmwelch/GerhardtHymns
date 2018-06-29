@@ -10,8 +10,8 @@ meter: 77 77
 scripture:
 firstline: i
 number: 10
-link: /hymns/010
-layout: hymn
+link: /hymns/010/text
+layout: hymntext
 ---
 
 1. In pray’r your voices raise ye  

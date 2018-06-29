@@ -1,5 +1,6 @@
 ---
-title: Information
+title:
+layout: about
 ---
 
 ## About This Book
@@ -42,7 +43,7 @@ You can reach me at my [personal website](http://ianmwelch.com/contact). I invit
 
 ## Legal
 
-© 2016–2017 Ian Welch. All rights reserved.
+© 2016–2018 Ian Welch. All rights reserved.
 
 No part of this book may be re­pro­duced with­out writ­ten per­mis­sion from me unless the text or music is under public domain. 
 

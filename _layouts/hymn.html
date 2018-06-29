@@ -2,32 +2,25 @@
 layout: default
 ---
 
-<section class="main">
-	<div class="page-header">
-		<h6><a href="{{ page.link | prepend: site.baseurl }}">< Go to {{ page.hymn }}</a></h6><br>
-		<h2>{% if page.title %}{{ page.title }}{% else %}Document{% endif %}</h2>
-		<h3>{% if page.heading %}{{ page.heading }}{% else %}{{ page.section }}{% endif %}</h3>
+<header class="short">
+	{% include navigation/top.html %}
+</header>
+
+<div class="dark-content docs-container">
+	<div class="wrapper wrapper-large">
+			{% include sidebar/hymns.html %}
+		<section class="docs-main" id="doc">
+			<article class="content">
+				<h1>{{ page.title }}</h1>
+				<p class="docs-category">{% if page.section %}{{ page.section }}{% else %}{{ site.display_title }}{% endif %}</p>
+
+				<div>{{ content }}</div>
+
+			</article>
+		</section>
 	</div>
-	
-	<article class="content">
-		<div class="block-text">
-			{{ content }}
-		</div>
-	</article>
+</div>
 
-	<div class="content">
-		<div class="block-info">
-			<b>author</b>&emsp;&emsp;{{ page.author}}<br>
-			<b>year</b>&emsp;&emsp;{{ page.year}}<br>
-			<b>meter</b>&emsp;&emsp;{{ page.meter}}<br>
-			<b>source</b>&emsp;&emsp;{{ page.source}}<br>
-			<b>category</b>&emsp;&emsp;{{ page.category}}<br>
-			<b>scripture</b>&emsp;&emsp;{{ page.scripture}}<br>
-		</div>
-	</div>
-
-</section>
-
-
-
-
+<script>
+	{% include autofocus.js %}
+</script>

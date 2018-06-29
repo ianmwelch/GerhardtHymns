@@ -1,0 +1,183 @@
+html {
+	font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: "ff-meta-web-pro", sans-serif;
+	line-height: 1.2;
+}
+
+h1 {
+	font-size: 2.3rem;
+}
+
+h2 {
+	font-size: 1.8rem;
+}
+
+h3 {
+	font-size: 1.6rem;
+}
+
+h4 {
+	font-size: 1.15rem;
+	margin-bottom: 10px;
+}
+
+h5 {
+	font-family: "ff-meta-web-pro", sans-serif;
+	font-size: 1.1rem;
+	font-variant: small-caps;
+	font-feature-settings: 'onum';
+	color: #CC092F;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+h6 {
+	font-size: 1rem;
+	font-weight: 400;
+	margin: 0px;
+	line-height: 1.4rem;
+
+	a {
+		color: #000;
+	}
+
+	a:hover {
+		color: $brand-color;
+	}
+}
+
+.back-button {
+
+	h6 {
+		font-family: 'ff-meta-web-pro', sans-serif;
+		font-weight: bold;
+		line-height: 1.4rem;
+
+		a {color: $brand-color;}
+	}
+
+}
+
+.big-text {
+	font-size: 1.6rem;
+	font-weight: 700;
+	line-height: 1.5;
+}
+
+@media only screen and (min-width: $tablet-min) {
+	h1 {
+		font-size: 2.5rem;
+	}
+
+	h2 {
+		font-size: 1.9rem;
+	}
+
+	.big-text {
+		font-size: 2rem;
+	}
+}
+
+@media only screen and (min-width: $desktop-min) {
+	h1 {
+		font-size: 2.7rem;
+	}
+
+	h2 {
+		font-size: 2rem;
+	}
+
+	.big-text {
+		font-size: 2.3rem;
+	}
+}
+
+p,
+ul,
+ol {
+	font-size: 1rem;
+	line-height: 1.5em;
+}
+
+p,
+ul,
+ol,
+blockquote,
+figure,
+h1,
+h2,
+h3,
+h4 {
+	@extend .vertical-flow;
+}
+
+body,
+input,
+textarea,
+select {
+	font-family: "ff-meta-serif-web-pro", serif;
+	font-feature-settings: 'lnum';
+	color: $text-colour;
+	-webkit-font-smoothing: antialiased;
+	font-weight: 400;
+}
+
+code {
+	word-break: break-word;
+}
+
+
+.header-link {
+	margin-left: 10px;
+	opacity: 0;
+	transition: opacity ease 0.2s, color ease 0.2s;
+	text-decoration: none;
+	color: #888;
+	font-size: 0.9em;
+	vertical-align: bottom;
+
+	&:hover {
+		color: $brand-color;
+	}
+}
+
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+	opacity: 1;
+}
+
+
+blockquote {
+	padding: 15px;
+	margin-left: 0;
+	margin-right: 0;
+	border-left: 0px solid $brand-color;
+	background-color: #f2f2f2;
+	transition: $transition-duration border-color ease, $transition-duration background-color ease;
+
+	&.warning {
+		background-color: $warning-color-light;
+		border-color: $warning-color;
+	}
+
+	&.error {
+		background-color: $error-color-light;
+		border-color: $error-color;
+	}
+
+	:first-child {
+		margin-top: 0;
+	}
+
+	:last-child {
+		margin-bottom: 0;
+	}
+}
