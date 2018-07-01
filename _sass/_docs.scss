@@ -84,38 +84,3 @@
 		font-weight: 700;
 	}
 }
-
-.settings-panel-example {
-	@extend p;
-	display: flex;
-	flex-direction: column;
-
-	.example {
-		max-width: 300px;
-		background-color: #fafafa;
-		margin: 0;
-		padding: 0;
-		font-size: 0;
-		line-height: 1;
-		border-radius: 2px;
-		overflow: hidden;
-	}
-
-	@media (min-width: 960px) {
-		flex-direction: row;
-
-		.details {
-			flex: 1;
-			margin-right: 20px;
-		}
-
-		p + .highlight > pre {
-			margin-bottom: 0;
-		}
-
-		.example {
-			flex: 0 0 300px;
-			max-width: 100%;
-		}
-	}
-}
