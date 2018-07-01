@@ -6,7 +6,7 @@ year: 1653
 meter: 887 887
 stanzas: 15
 scripture: 
-cruger: 779.
+cruger: 779.404
 ebeling: 43
 feustking: 100
 zahn: 2531 (Ebeling)
