@@ -53,10 +53,7 @@ Fry, 1859, p. 163. Text \| Scan
 
 Manington, 1864, p. 36. Text \| Scan
 
-#### 11. Immanuell to Thee we sing, The Fount.
+#### Immanuell to Thee we sing, The Fount.
 
 John Kelly, 1867, p. 37. Text \| Scan
 
----
-
-<span class="button">Translation Comparisons</span>
