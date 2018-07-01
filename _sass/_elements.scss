@@ -44,12 +44,21 @@ tr:nth-child(even) {
 }
 
 td, th {
-  padding-right: 4px;
+  padding-right: 0px;
   text-align: left;
 }
 
+td {
+  padding-top: 10px;
+  vertical-align: top;
+}
+
 th {
-  padding-bottom: 4px;
+  padding-bottom: 10px;
+  font-family: "ff-meta-web-pro", sans-serif;
+  text-transform: lowercase;
+  font-variant: small-caps;
+  border-bottom: 1px solid #999;
 }
 
 
