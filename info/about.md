@@ -21,4 +21,4 @@ This is a multi-year project and will be updated on a semi-regular basis. Becaus
 4. Analysis of Gerhardt's hymns: Research into the form and content of the original German hymn, including allusions and references to Scripture.
 5. Text comparisons: A side-by-side comparison of Gerhard't German text and translations. This may eventually be done together with number 2 as soon as a technical solution is found.
 
-You may view changes and updates to this website on the [Change Log](/changelog) page.
+You may view changes and updates to this website on the [Change Log](/changelog) page. A more detailed look at changes can be viewed on [Github](https://github.com/ianmwelch/GerhardtHymns/commits/gh-pages).
