@@ -17,11 +17,3 @@ Johann Ebeling was a close friend of Gerhardt and succeeded Crüger as cantor at
 **3. Johann Feustking's [*Pauli Gerhardi Geistreiche Hauss- und Kirchen-Lieder (1707 and later editions)*](/sources/pauli_feustking)**
 
 The son of Paul Gerhardt, Paul Friedrich Gerhardt, left the last will of his father including all of his hymns to superintendent Feustking in Zerbst. Paul Gerhardt's songs were published in a book by Feustking with the last will printed within the preface. 
-
-#### Notable Translation Sources
-
-List of translations sources
-
-#### Notable Music Sources
-
-List of other sources
