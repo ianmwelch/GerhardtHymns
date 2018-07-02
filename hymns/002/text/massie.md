@@ -22,6 +22,7 @@ layout: hymntext
    Help in time of utmost need,  
    Come, my Saviour, and relieve me  
    From the woulds which deeply grieve me!
+   
 2. These deep scars the iron yoke  
    Of the law hath made in me,  
    Oft, as with a hammer's stroke,  
@@ -30,6 +31,7 @@ layout: hymntext
    Of my God and Judge, who hath  
    Pierced me with a voice of thunder,  
    Rending heart and reins asunder!
+   
 3. Satan, too, his wiles doth ply,  
    And denieth me all grace,  
    As tho' I must ever lie  
@@ -38,6 +40,7 @@ layout: hymntext
    Fills my cup with bitterness—  
    My own conscience doth sore smite me,  
    And with fangs of venom bite me.
+   
 4. If, to ease my grief of mind,  
    And to quench the hidden fire,  
    I should join the worldly kind,  
@@ -46,6 +49,7 @@ layout: hymntext
    Joy which makes my pains increase,  
    Help which makes my burdens double,  
    Friends who laugh at all my trouble.
+   
 5. All the world hath is, at most,  
    Empty chaff which flies away;  
    Have I grandeur? 'tis soon lost;  
@@ -54,6 +58,7 @@ layout: hymntext
    Have I pleasure? what is 't worth?  
    What gives joy to-day, to-morrow  
    Disappointment brings and sorrow.
+   
 6. Jesus Christ, in Thy sweet grace  
    All I find that I can need;  
    Comfort, joy, a resting-place,  
@@ -62,6 +67,7 @@ layout: hymntext
    Ere my heart be broken quite;  
    Comfort, strengthen, and revive me,  
    Nor of Thy sweet sight deprive me.
+   
 7. Heart, rejoice that thou art heard;  
    Jesus comes to sup with thee;  
    He draws nigh thee: speak the word;  
@@ -70,6 +76,7 @@ layout: hymntext
    Wholly give thyself to rest;  
    Open all thy soul's distresses,  
    Tell Him all that pains or presses.
+   
 8. See'st thou not that all goes right,  
    Where thy feet were wont to slip?  
    Hear'st thou not with rich delight  
@@ -78,6 +85,7 @@ layout: hymntext
    From attempts he sees are vain,  
    And must, sorely bruised and wounded,  
    Flee to his abyss confounded.
+   
 9. Sweet is now thy life to thee;  
    All thou wilt is thine, and more:  
    Christ who gave Himself for thee  
@@ -86,6 +94,9 @@ layout: hymntext
    And thy heart His dwelling-place;  
    Bound by bonds which none can sever,  
    His is now thy spouse for ever.
-10. 
+   
+10.  
+
 11. 
+
 12. 
