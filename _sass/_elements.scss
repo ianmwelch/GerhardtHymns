@@ -96,3 +96,25 @@ a{
 }
 
 }
+
+.footnotes {
+	border-top: solid 1px #EFEFEF;
+	padding-top: 10px;
+
+	li {
+		font-size: 0.8rem;
+	}
+	
+	p {
+	font-size: 0.8rem;
+	line-height: 1rem;
+	margin: 0 0 0rem 0
+	}
+}
+
+sup {
+  font-feature-settings: 'onum';
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
