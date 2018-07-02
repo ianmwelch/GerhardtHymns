@@ -50,7 +50,3 @@ In the 1857 edition of Mercer's *Church Psalter and Hymn Book* with stanzas 1 an
 #### Say with what salutations
 
 [John Kelly](/authors/kelly), 1867, p. 10. [Text](/hymns/001/text/kelly) \| [Scan](/hymns/001/scans/kelly.pdf)
-
----
-
-<span class="button">Translation Comparisons</span>
