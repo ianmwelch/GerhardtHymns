@@ -29,7 +29,7 @@ layout: hymndata
 
 #### [Hewitt Commentary ➔](/hymns/001/hewitt)
 
-*Theodore Hewitt's original commentary.*
+*Commentary by Theodore Brown Hewitt*
 
 
 
