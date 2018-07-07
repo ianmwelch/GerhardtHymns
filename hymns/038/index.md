@@ -15,3 +15,6 @@ layout: hymndata
 ---
 <br>
 
+#### [Hewitt Commentary ➔](/hymns/038/hewitt)
+
+*Commentary by Theodore Brown Hewitt*

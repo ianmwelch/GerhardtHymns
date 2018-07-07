@@ -19,3 +19,6 @@ layout: hymndata
 
 *A collection of the source texts and known translations.*
 
+#### [Hewitt Commentary ➔](/hymns/003/hewitt)
+
+*Commentary by Theodore Brown Hewitt*
