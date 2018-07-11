@@ -5,7 +5,7 @@ section: Text and Translations
 category: Advent
 author: Cathering Winkworth
 source: Chorale Book for England, no. 153
-year: 1858
+year: 1863
 meter: 87 87 77 88
 scripture:
 firstline: w
