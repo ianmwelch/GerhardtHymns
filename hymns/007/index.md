@@ -1,5 +1,5 @@
 ---
-title: Schaut, schaut, was ist für Wunder bar?
+title: Schaut, schaut, was ist für Wunder dar?
 category: christmas
 number: 7
 year: 1666
