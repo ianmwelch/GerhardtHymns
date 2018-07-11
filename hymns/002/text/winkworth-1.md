@@ -38,6 +38,7 @@ layout: hymntext
    In the pains that torture me."  
    Yes, and keener still thy smart,  
    Conscience, in my anguished heart,  
+   By thy venomed tooth tormented,  
    Long-past sins are sore repented.
 
 4. Would I then, to soothe my sorrow,  
@@ -76,11 +77,11 @@ layout: hymntext
    With an open'd heart adore Him,  
    Pour thy griefs and fears before Him.
 
-8. 
+8.   
 
-9. 
+9.   
 
-10. 
+10.   
 
 11. Thy misdeeds are thine no longer,  
     He hath cast them in the sea,  
