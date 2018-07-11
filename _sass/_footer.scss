@@ -1,6 +1,9 @@
 footer {
+	clear: both;
+	
 	& > .wrapper {
 		padding-bottom: $half-space;
+		clear:both;
 	}
 
 	.footer-links {
