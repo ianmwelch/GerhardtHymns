@@ -1,0 +1,28 @@
+I"�	<h2 id="javascript">Javascript</h2>
+
+<p>Javascript is used sparingly in this template, and if solutions can be made through HTML and CSS, those are preferred. However for some special features, Javascript is almost unavoidable. The items below explain the few uses of Javascript and how to change them if necessary.</p>
+
+<h3 id="fading-the-header-and-footer">Fading the Header and Footer</h3>
+
+<p>The headers and footers fade in and out when scrolling by default. This is done via Javascript in <code class="highlighter-rouge">/assets/js/functions.js</code>.  Three classes are called out (<code class="highlighter-rouge">.header</code>, <code class="highlighter-rouge">.bottom-nav</code>, <code class="highlighter-rouge">.footer</code>) and adjusted slightly different from one another. The moment in which the fading begins or ends can be adjusted using the <code class="highlighter-rouge">threshold</code> parameter:</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">var</span> <span class="nx">threshold</span> <span class="o">=</span> <span class="mi">200</span>
+</code></pre></div></div>
+
+<h3 id="mobile-navigation-menu">Mobile Navigation Menu</h3>
+
+<p>Javascript controls the toggling of the mobile menu and shouldn’t be changed. The menu can be styled through the <code class="highlighter-rouge">.main-menu-mobile</code> class found in <code class="highlighter-rouge">_sass/nordic/main-menu-mobile.scss</code>.</p>
+
+<h3 id="possible-dynamic-content">Possible Dynamic Content</h3>
+
+<p>For content that you’d want to change periodically, Javascript may have to be used. Since the site uses Jekyll, a static website builder, dynamic content (e.g., changing featured content on the homepage) is impossible without Javascript. Without Javascript, new content can only be randomized on building the website. It cannot be randomized through timed events or on page loads.</p>
+
+<p>Content is currently randomized on the homepage only on build. This is done via Liquid in <code class="highlighter-rouge">_layouts/home.html</code>.</p>
+
+<h2 id="print">Print</h2>
+
+<p>The website can be fine-tuned for printing in <code class="highlighter-rouge">_sass/nordic/print.scss</code>. Certain elements are omitted for printing (e.g., the main navigation, side navigation, and footer) while others are adapted for a printed page or PDF.</p>
+
+<h2 id="hamburger-animations">Hamburger Animations</h2>
+
+:ET
