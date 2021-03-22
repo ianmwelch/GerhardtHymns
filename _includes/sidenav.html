@@ -1,0 +1,26 @@
+
+<div class="sidenav-group">
+  <button class="sidenav">Contents</button>
+    <div class="sidenav-panel">
+      {% capture my_include %}{% include_relative contents.html %}{% endcapture %}
+      {{ my_include | markdownify }}
+      <br>
+    </div>
+</div>
+
+<script>
+var acc = document.getElementsByClassName("sidenav");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>

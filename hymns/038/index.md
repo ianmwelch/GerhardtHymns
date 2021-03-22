@@ -1,17 +1,17 @@
 ---
 title: Nun ruhen alle Wälder
-category: evening
-number: 38
-year: 1648
-meter: 776 778
-stanzas: 9
-scripture: 
+category: Evening
+hymn_number: 38
+hymn_year: 1648
+hymn_meter: 776 778
+hymn_stanzas: 9
+hymn_scripture: 
 cruger: —
 ebeling: 87
 feustking: 211
 zahn: 2308
 bwv: 392 (O Welt, ich muß dich lassen)
-layout: hymndata
+layout: hymn
 ---
 <br>
 

@@ -1,0 +1,75 @@
+.accordion-group {
+  float:right;
+  overflow: auto;
+  width:30%;
+  padding-left:110px;
+  padding-top:2px;
+  padding-bottom: 40px;
+  margin-top: 10px;
+}
+
+@include media-query($on-laptop) {
+  .accordion-group {
+    float: none;
+    width: 100%;
+    padding-left: 0px;
+    margin-top: 10px;
+  }
+}
+
+.accordion {
+  background-color: $background-color;
+  color: black;
+  cursor: pointer;
+  padding: 8px 20px 0px 0px;
+  width: 100%;
+  border-top: 2px solid rgba(0,0,0,1);
+  border-bottom: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  text-align: left;
+  outline: none;
+  font-family: $base-font-sans;
+  font-weight: 600;
+  text-transform: lowercase;
+  font-variant: small-caps;
+  font-size: 24px;
+  transition: 0.4s;
+  margin-top: -2px;
+}
+
+.active, .accordion:hover {
+  
+}
+
+.accordion:after {
+  content: '\002B';
+  color: black;
+  font-weight: normal;
+  font-size: 1.5em;
+  float: right;
+  margin-left: 5px;
+  margin-top: -8px;
+}
+
+.active:after {
+  content: "\2212";
+  color: black;
+  display: block;
+}
+
+.panel {
+  padding: 0 0px;
+  background-color: $background-color;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  border-bottom: 2px solid rgba(0,0,0,1);
+
+  b {
+    font-family: $base-font-sans;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+  }
+}

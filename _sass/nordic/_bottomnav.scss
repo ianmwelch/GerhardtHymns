@@ -1,0 +1,47 @@
+.bottom-nav {
+  display: flex;
+  clear: both;
+  width: 100%;
+  border-top: 1.5px solid $grey-color;
+  font-family: $base-font-sans;
+  font-weight: normal;
+  font-size: 1.25em;
+  line-height: 1.2em;
+  text-transform: lowercase;
+  font-variant: small-caps;
+
+  .bottom-nav-prev {
+    display: block;
+    width: 40%;
+    float: left;
+    border-right: 1.5px solid $grey-color;
+    text-align: left;
+  }
+
+  .bottom-nav-mid {
+    display: block;
+    clear: left;
+    width: 20%;
+    text-align: center;
+  }
+
+  .bottom-nav-next {
+    display: block;
+    width: 40%;
+    float: right;
+    border-left: 1.5px solid $grey-color;
+    text-align: right;
+  }
+  a {
+    display: block;
+    box-shadow: none;
+    padding: 20px;
+    padding-bottom: 40px;
+    color: $grey-color;
+
+    &:hover {
+      background-color: lighten($grey-color, 40%);
+      color: $text-color;
+    }
+  }
+}

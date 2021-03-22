@@ -1,52 +1,102 @@
----
-title: Wie soll ich dich empfangen
-section: Text and Translations
-category: advent
-layout: hymn
----
+1. Wie soll ich dich empfangen  
+   Und wie begegn' ich dir?  
+   O aller Welt Verlangen,  
+   O meiner Seelen Zier!  
+   O Jesu, Jesu, setze  
+   Mir selbst die Fackel bei,  
+   Damit, was dich ergötze,  
+   Mir kund und wissend sei.
+   
+2. Dein Zion streut dir Palmen[^1]  
+   Und grüne Zweige hin,  
+   Und ich will dir in Psalmen  
+   Ermuntern meinen Sinn.  
+   Mein Herze soll dir grünen  
+   In stetem Lob und Preis  
+   Und deinem Namen dienen,  
+   So gut es kann und weiß.
+   
+3. Was hast du unterlassen  
+   Zu meinem[^2] Trost und Freud?  
+   Als Leib und Seele saßen  
+   In ihrem größten Leid,[^3]  
+   Als mir das Reich genommen,  
+   Da Fried und Freude lacht,  
+   Da bist du, mein Heil, kommen  
+   Und hast mich froh[^4] gemacht.
+   
+4. Ich lag in schweren Banden,  
+   Du kommst und machst mich los;  
+   Ich stund in Spott und Schanden,  
+   Du kommst und machst mich groß  
+   Und hebst mich hoch zu Ehren  
+   Und schenkst mir großes Gut,  
+   Das sich nicht läßt verzehren,  
+   Wie irdisch[^5] Reichtum tut.
+   
+5. Nichts, nichts hat dich getrieben  
+   Zu mir vom Himmelszelt  
+   Als das geliebte Lieben,  
+   Damit du alle Welt  
+   In ihren tausend Plagen  
+   Und großen[^6] Jammerlast,[^7]  
+   Die kein Mund kann aussagen,[^8]  
+   So fest umfangen hast.
+   
+6. Das schreib dir in dein Herze,  
+   Du hochbetrübtes[^9] Heer,  
+   Bei denen Gram und Schmerze  
+   Sich häuft je mehr und mehr.  
+   Seid unverzagt, ihr habet  
+   Die Hilfe vor der Tür;  
+   Der eure Herzen labet  
+   Und tröstet, steht allhier.
+   
+7. Ihr dürft euch nicht bemühen  
+   Noch sorgen Tag und Nacht,  
+   Wie ihr ihn wollet ziehen  
+   Mit eures Armes Macht.  
+   Er kommt, er kommt mit Willen,  
+   Ist voller Lieb und Lust,  
+   All Angst und Not zu stillen,  
+   Die ihm an euch bewußt.
+   
+8. Auch dürft ihr nicht erschrecken  
+   Vor eurer[^10] Sündenschuld.  
+   Nein, Jesus will sie decken  
+   Mit seiner Lieb und Huld.  
+   Er kommt, er kommt den Sündern  
+   Zum Trost und wahren Heil,  
+   Schafft, daß bei Gottes Kindern  
+   Verbleib ihr Erb und Teil.
+   
+9. Was fragt ihr nach dem Schreien  
+   Der Feind und ihrer Tück?  
+   Der[^11] Herr wird sie zerstreuen  
+   In einem Augenblick.  
+   Er kommt, er kommt, ein König,  
+   Dem wahrlich alle Feind  
+   Auf Erden viel zu wenig  
+   Zum Widerstande seind.
+   
+10. Er kommt zum Weltgerichte,  
+   Zum Fluch dem, der ihn[^12] flucht,  
+   Mit Gnad und süßem Lichte  
+   Dem, der ihn liebt und sucht.  
+   Ach komm, ach komm, o Sonne,  
+   Und hol uns allzumal  
+   Zum ewgen Licht und Wonne  
+   In deinen Freudensaal.
 
-Included in [Crüger's](/authors/crüger) *Praxis pietatis melica*, 1653, no. 77, in 10 stanzas of 8 lines. It later appeared in [Ebeling's](/authors/ebeling) *Pauli Gerhardi Geistliche Andachten*, 1666/67, no. 49, and in [Feustking's](/authors/feustking) *Pauli Gerhardi Geistreiche Hauss- und Kirchen-Lieder*, 1707, p. 1.
-
-#### Wie soll ich dich empfangen
-
-[Text](/hymns/001/text/gerhardt) \| [Crüger](/hymns/001/scans/crüger.pdf) \| [Ebeling](/hymns/001/scans/ebeling.pdf) \| [Feustking](/hymns/001/scans/feustking.pdf)  
-
----
-
-#### How shall I meet my Savior
-
-[John Jacobi](/authors/jacobi) in *Psalmodia Germanica*, 1722, p. 3. [Text](/hymns/001/text/jacobi-1) \| [Scan](/hymns/001/scans/jacobi-1.pdf)
-
-Slightly altered version in the second edition, 1732, p. 3. [Text](/hymns/001/text/jacobi-2) \| [Scan](/hymns/001/scans/jacobi-2.pdf)
-
-#### Lord, how shall I be meeting
-
-James Alexander in Philip Schaff's *Kirchenfreund*, 1850, p. 176, *Christ in Song*, 1869, p. 20, and his own *Breaking Crucible*, 1861, p. 11. [Text](/hymns/001/text/alexander) \| [Scan](/hymns/001/scans/alexander.pdf)
-
-#### Oh, how shall I receive Thee
-
-[Arthur Russell](/authors/russell) in his *Psalms and Hymns*, 1851, no. 36. Translation of Gerhardt's 1, 2, 7, 8, and 10. [Text](/hymns/001/text/russell) \| [Scan](/hymns/001/scans/russell.pdf)
-
-#### How shall I meet Thee? How my heart
-
-[Catherine Winkworth](/authors/winkworth) in *Lyra Germanica*, 1855, p. 7. [Text](/hymns/001/text/winkworth-1) \| [Scan](/hymns/001/scans/winkworth-1.pdf)
-
-#### Oh, how shall I receive Thee
-
-In the 1857 edition of Mercer's *Church Psalter and Hymn Book* with stanzas 1 and 2 based roughly on Russell and stanzas 3–5 based on Jacobi. Translation of Gerhardt's 1, 2, 4–6. [Text](/hymns/001/text/anonymous) \| [Scan](/hymns/001/scans/anonymous.pdf)
-
-#### Ah! Lord, how shall I meet thee
-
-[Catherine Winkworth](/authors/winkworth) in the *Chorale Book for England*, 1863, no. 21. [Text](/hymns/001/text/winkworth-2) \| [Scan](/hymns/001/scans/winkworth-2.pdf)
-
-#### How shall I come to meet Thee
-
-[Alice Mannington](/authors/mannington) in *Footprints of the Holy Dead*, 1863, p. 65. [Text](/hymns/001/text/mannington) \| Scan
-
-#### Lord, how shall I receive Thee
-
-[Richard Massie](/authors/massie_r) in *Lyra Domestica*, vol. 2, 1864, p. 93. [Text](/hymns/001/text/massie) \| [Scan](/hymns/001/scans/massie.pdf)
-
-#### Say with what salutations
-
-[John Kelly](/authors/kelly), 1867, p. 10. [Text](/hymns/001/text/kelly) \| [Scan](/hymns/001/scans/kelly.pdf)
+[^1]: Feustking: "die Palmen"
+[^2]: Ebeling: "Zu meinen Trost"
+[^3]: Ebeling: "in ihren grösten Leid',". Feustking: "in ihren grösten Leid,"
+[^4]: Some later hymn books have "frei"
+[^5]: Some hymn books "irgend" or "irgends"
+[^6]: Crüger (1656): "großem"
+[^7]: Ebeling and Feustking: "Jammers-Last"
+[^8]: Ebeling: "Die kein Mensch auß-kann-sagan"
+[^9]: Ebeling and Feustking: "Herz betrübtes" (herzbetrübtes)
+[^10]: Ebeling: "eure"
+[^11]: Ebeling and Feustking: "Ihr"
+[^12]: Crüger (1656): "ihm"

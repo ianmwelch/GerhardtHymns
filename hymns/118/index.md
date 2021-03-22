@@ -1,17 +1,17 @@
 ---
 title: Nun, du lebest, unsre Krone
-category: death and burial
-number: 118
-year: 1648
-meter: 77 77 77 88
-stanzas: 8
-scripture: 
+category: Death and Burial
+hymn_number: 118
+hymn_year: 1648
+hymn_meter: 77 77 77 88
+hymn_stanzas: 8
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

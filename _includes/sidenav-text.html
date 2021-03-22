@@ -1,0 +1,36 @@
+
+<div class="sidenav-group">
+  <button class="sidenav">Information</button>
+    <div class="sidenav-panel">
+      <b>original</b>
+      <p><a href="{{ page.link }}">{{ page.title_original }}</a></p>
+      <b>author</b>
+      {% for item in page.hymn_author %}
+        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
+      {% endfor %}
+      <b>source</b>
+      {% for item in page.hymn_source %}
+        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
+      {% endfor %}
+      <b>published</b><p>{{ page.hymn_year }}</p>
+      <b>meter</b><p>{{ page.hymn_meter }}</p>
+      <br>
+    </div>
+</div>
+
+<script>
+var acc = document.getElementsByClassName("sidenav");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>

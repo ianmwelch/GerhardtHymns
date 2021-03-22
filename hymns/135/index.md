@@ -1,17 +1,17 @@
 ---
 title: Also treten wir nun an
-category: other
-number: 135
-year: 1644
-meter: 77 77
-stanzas: 12
-scripture: 
+category: Other
+hymn_number: 135
+hymn_year: 1644
+hymn_meter: 77 77
+hymn_stanzas: 12
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
-<br>
+[information]
 

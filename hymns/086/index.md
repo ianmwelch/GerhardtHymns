@@ -1,17 +1,17 @@
 ---
 title: Wie lang, o Herr, wie lange soll
-category: cross and comfort
-number: 86
-year: 1653
-meter: 77 77 556 67
-stanzas: 6
-scripture: Psalm 13
+category: Cross and Comfort
+hymn_number: 86
+hymn_year: 1653
+hymn_meter: 77 77 556 67
+hymn_stanzas: 6
+hymn_scripture: Psalm 13
 cruger: 684.
 ebeling: 98
 feustking: 119
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

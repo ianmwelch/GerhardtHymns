@@ -1,8 +1,11 @@
 ---
 title: Gerhardt, Paul (1607–76)
-section: Authors
-author: g
-layout: index
+author_first: Paul
+author_last: Gerhardt
+author_date: 1607–76
+section: Authors and Composers
+image: 
+layout: page
 ---
 
 Paul Gerhardt is considered by many as the most gifted and popular hymnwriter of the Lutheran church, was born on March 12, 1607, in Gräfenhainichen, a small village a few miles south of Wittenberg, Germany. His father, Christian Gerhardt, was mayor of the town but died when Paul was very young. Dorothea nee Starke, his mother, was a Lutheran pastor’s daughter and a pastor’s granddaughter from Eilenburg. Little is known of his many brothers and sisters. Paul spent the first 15 years of his life in his hometown, but from 1622 to 1627 went to the elector’s school at Grimma, an institution noted for its pious atmosphere and stern discipline. The school’s aim was to instill in the pupils “Gottesfurcht und gute Sitte” (“the fear of God and good manners or morals”).

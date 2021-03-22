@@ -1,0 +1,22 @@
+
+@media print {
+  .accordion-group, .site-nav, .bottom-nav, .back-button, .main-menu {
+    display: none;
+  }
+
+  .header {
+    padding-top: 0px;
+  }
+
+  .page-subtitle, .page-content, .post-content {
+    width:100%;
+  }
+
+  a::after {
+  content: " (" attr(href) ")";
+  }
+
+  .page-number {
+    padding-right: 0px;
+  }
+}

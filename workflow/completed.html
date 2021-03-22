@@ -1,0 +1,20 @@
+---
+title: Completed
+layout: default
+permalink: workflow/completed.html
+---
+
+<h1 class="post-title">{{ page.title }}</h1><br>
+
+<p style="font-size: 24px">This website uses a four-state workflow to drive the development of content. The documents listed on this page are completed.</p><br>
+
+<h2>Completed <span class="label label-green">Green</span></h2>
+
+<ul class="navigation-list">
+	{% assign pages_list = site.html_pages | sort:"title" | where: "workflow","completed" %}
+	{% for node in pages_list  %}
+	<li class="navigation-list-item">
+		<a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
+	</li>
+	{% endfor %}
+</ul>

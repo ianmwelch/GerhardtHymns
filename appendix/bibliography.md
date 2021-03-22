@@ -1,7 +1,8 @@
 ---
 title: Bibliography
 section: Appendix
-layout: appendix
+order: 2
+layout: page
 ---
 
 This is a list of some of the works that were frequently consulted when researching the work and life of [Paul Gerhardt](/authors/gerhardt). Books of musical settings and audio are also cited.

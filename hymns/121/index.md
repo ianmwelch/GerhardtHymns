@@ -1,17 +1,17 @@
 ---
 title: Leid ist mirs in meinem Herzen
-category: death and burial
-number: 121
-year: 1667
-meter: 87 87 88
-stanzas: 7
-scripture: 
+category: Death and Burial
+hymn_number: 121
+hymn_year: 1667
+hymn_meter: 87 87 88
+hymn_stanzas: 7
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

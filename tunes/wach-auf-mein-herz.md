@@ -1,8 +1,7 @@
 ---
 title: Wach auf, mein Herz, und singe
-section: Hymn Tunes
-tune: w
-layout: index
+section: Tunes
+layout: page
 ---
 
 See [Nun laßt uns Gott dem Herren](/tunes/nun-lasst-uns)  

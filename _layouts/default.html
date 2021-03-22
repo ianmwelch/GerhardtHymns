@@ -1,35 +1,31 @@
 <!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
-		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,700{% if layout.icons or page.icons %}|Material+Icons{% endif %}" rel="stylesheet">
-		<script src="https://use.typekit.net/jks5sqh.js"></script>
-		<script>try{Typekit.load({ async: true });}catch(e){}</script>
-		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css" type="text/css">
-		<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
-		<link rel="shortcut icon" type="image/png" sizes="128x128" href="/assets/favicon-128x128.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
-		<link rel="manifest" href="/assets/manifest.json">
-		<meta name="theme-color" content="#CC092F">
+  {%- include head.html -%}
 
-	</head>
+  <body>
 
-	<body>
-		{{ content }}
-		{% include navigation/footer.html %}
-		<script>
-			document.getElementById("open-nav").addEventListener("click", function (event) {
-				event.preventDefault();
-				document.body.classList.toggle("nav-open");
+    <a name="top"></a>
+    {% include main-menu-mobile.html %}
+    {%- include header.html -%}
 
-				if (document.body.classList.contains("nav-open")) {
-					document.getElementById("search-input").focus();
-				}
-			});
-		</script>
-	</body>
+    {% if page.banner %}
+        <div class="banner-image" style="background-image: url('{{ page.banner }}');">        
+        <div class="banner-text">{{page.description}}</div>
+        </div>
+      {% endif %}
+
+    <main class="page-wrapper" aria-label="Content">
+      <div class="wrapper">
+
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <script type="text/javascript" src="{{ "/assets/js/functions.js" | relative_url }}""></script>
+
+  </body>
+
 </html>

@@ -1,0 +1,60 @@
+
+<div class="accordion-group">
+<button class="accordion">Text</button>
+<div class="panel">
+  {% capture my_include %}{% include_relative text.md %}{% endcapture %}
+{{ my_include | markdownify }}
+<br>
+</div>
+
+<button class="accordion">Information</button>
+<div class="panel">
+  <b>section</b><p>{{ page.category }}</p>
+  <b>year</b><p>{{ page.hymn_year }}</p>
+  <b>stanzas</b><p>{{ page.hymn_stanzas }}</p>
+  <b>meter</b><p>{{ page.hymn_meter }}</p>
+  <b>crüger</b>
+  {% for item in page.cruger %}
+        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
+  {% endfor %}
+  <b>ebeling</b>
+  {% for item in page.ebeling %}
+        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
+  {% endfor %}
+  <b>feustking</b>
+  {% for item in page.feustking %}
+        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
+  {% endfor %}
+  <b>zahn</b>
+  {% for item in page.zahn %}
+        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
+  {% endfor %}
+  <b>bwv</b><p>{{ page.bwv }}</p>
+  <b>scripture</b><p>{{ page.hymn_scripture | join: ', ' }}</p>
+  <br>
+</div>
+
+<button class="accordion">Music</button>
+<div class="panel">
+  {% capture my_include %}{% include_relative music.md %}{% endcapture %}
+{{ my_include | markdownify }}
+  <br>
+</div>
+</div>
+
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>

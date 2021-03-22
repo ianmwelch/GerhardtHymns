@@ -1,17 +1,17 @@
 ---
 title: Nicht so traurig, nicht so sehr
-category: cross and comfort
-number: 72
-year: 1648
-meter: 77 77 77
-stanzas: 15
-scripture: 
+category: Cross and Comfort
+hymn_number: 72
+hymn_year: 1648
+hymn_meter: 77 77 77
+hymn_stanzas: 15
+hymn_scripture: 
 cruger: —
 ebeling: 16
 feustking: 156
 zahn: 3336 (Crüger)
 bwv: 384, 489 (Nicht so traurig, nicht so sehr)
-layout: hymndata
+layout: hymn
 ---
 <br>
 

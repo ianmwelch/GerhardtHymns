@@ -1,17 +1,17 @@
 ---
 title: Erhebe dich, betrübtes Herz
-category: death and burial
-number: 119
-year: 1651
-meter: 887 87
-stanzas: 22
-scripture: 
+category: Death and Burial
+hymn_number: 119
+hymn_year: 1651
+hymn_meter: 887 87
+hymn_stanzas: 22
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

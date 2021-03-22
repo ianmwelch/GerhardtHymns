@@ -1,17 +1,17 @@
 ---
 title: O wie wohl ist hier zu lesen
-category: other
-number: 139
-year: 1666
-meter: 88 77
-stanzas: 5
-scripture: 
+category: Other
+hymn_number: 139
+hymn_year: 1666
+hymn_meter: 88 77
+hymn_stanzas: 5
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
-<br>
+[information]
 

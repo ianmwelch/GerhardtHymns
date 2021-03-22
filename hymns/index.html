@@ -1,0 +1,184 @@
+---
+title: Hymns
+layout: page-full
+---
+
+{% assign sortedPages = site.pages | sort: 'hymn_number' %}
+
+
+<div class="index-list">
+
+<h3>Advent</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Advent' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Christmas</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Christmas' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>New Year</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'New Year' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Passion</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Passion' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Easter</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Easter' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Pentecost</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Pentecost' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Trinity</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Trinity' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Baptism</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Baptism' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Lord's Supper</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Lord’s Supper' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Morning</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Morning' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Evening</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Evening' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Summer</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Summer' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Travel</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Travel' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Marriage</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Marriage' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Friendship</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Friendship' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Repentance</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Repentance' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Christian Life</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Christian Life' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Cross and Comfort</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Cross and Comfort' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Praise and Thanks</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Praise and Thanks' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Death and Burial</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Death and Burial' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+<h3>Other</h3>
+
+{% for page in sortedPages %}
+      {% if page.category contains 'Other' %}
+        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+      {% endif %}
+{% endfor %}
+
+</div>
+
+
+
+
+

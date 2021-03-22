@@ -1,8 +1,7 @@
 ---
 title: Nun laßt uns Gott dem Herren
-section: Hymn Tunes
-tune: n
-layout: index
+section: Tunes
+layout: page
 ---
 
 The melody of this tune originates from Nicolaus Selnecker's *Christliche Psalmen, Lieder, und Kirchengesänge* (1587) in which he set music to Ludwig Helmbold's "Nun laßt uns Gott dem Herren." Selnecker's melody, however, is a variation of the descant melody of the hymn found in Helmbod's *Geistliche Lieder, den Gottseligen Christen zugericht* (1575). 

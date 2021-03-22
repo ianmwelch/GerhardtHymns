@@ -1,17 +1,17 @@
 ---
 title: O Herrscher in dem Himmelszelt
-category: summer
-number: 41
-year: 1666
-meter: 88 88
-stanzas: 16
-scripture: 
+category: Summer
+hymn_number: 41
+hymn_year: 1666
+hymn_meter: 88 88
+hymn_stanzas: 16
+hymn_scripture: 
 cruger: —
 ebeling: 41
 feustking: 102
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

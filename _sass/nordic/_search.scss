@@ -1,0 +1,345 @@
+//
+// Search input and autocomplete
+//
+
+.search {
+  position: relative;
+  z-index: 2;
+  flex-grow: 1;
+  height: $sp-10;
+  padding: $sp-2;
+  transition: padding linear #{$transition-duration / 2};
+
+  @include media-query($on-laptop) {
+    position: relative !important;
+    width: auto !important;
+    height: 100% !important;
+    padding: 0;
+    transition: none;
+  }
+}
+
+.search-input-wrap {
+  position: relative;
+  z-index: 1;
+  height: $sp-8;
+  overflow: hidden;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+  transition: height linear #{$transition-duration / 2};
+
+  @include media-query($on-laptop) {
+    position: absolute;
+    width: 100%;
+    max-width: $search-results-width;
+    height: 100% !important;
+    border-radius: 0;
+    box-shadow: none;
+    transition: width ease $transition-duration;
+  }
+}
+
+.search-input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding-top: $sp-2;
+  padding-right: $gutter-spacing-sm;
+  padding-bottom: $sp-2;
+  padding-left: #{$gutter-spacing-sm + $sp-5};
+  font-size: 16px;
+  background-color: $search-background-color;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 0;
+  border-left: 0;
+  border-radius: 0;
+
+  @include media-query($on-laptop) {
+    padding-top: $gutter-spacing-sm;
+    padding-bottom: $gutter-spacing-sm;
+    padding-left: #{$gutter-spacing + $sp-5};
+    font-size: 14px;
+    background-color: $background-color;
+    transition: padding-left linear #{$transition-duration / 2};
+  }
+
+  &:focus {
+    outline: 0;
+
+    + .search-label .search-icon {
+      color: $brand-color;
+    }
+  }
+}
+
+.search-label {
+  position: absolute;
+  display: flex;
+  height: 100%;
+  padding-left: $gutter-spacing-sm;
+
+  @include media-query($on-laptop) {
+    padding-left: $gutter-spacing;
+    transition: padding-left linear #{$transition-duration / 2};
+  }
+
+  .search-icon {
+    width: #{$sp-4 * 1.2};
+    height: #{$sp-4 * 1.2};
+    align-self: center;
+    color: $grey-color;
+  }
+}
+
+.search-results {
+  position: absolute;
+  left: 0;
+  display: none;
+  width: 100%;
+  max-height: calc(100% - #{$sp-10});
+  overflow-y: auto;
+  background-color: $search-background-color;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+
+  @include media-query($on-laptop) {
+    top: 100%;
+    width: $search-results-width;
+    max-height: calc(100vh - 200%) !important;
+  }
+}
+
+.search-results-list {
+  padding-left: 0;
+  margin-bottom: $sp-1;
+  list-style: none;
+  font-size: 15px;
+
+  @include media-query($on-laptop) {
+    font-size: 12px;
+  }
+}
+
+.search-results-list-item {
+  padding: 0;
+  margin: 0;
+}
+
+.search-result {
+  display: block;
+  padding-top: $sp-1;
+  padding-right: $sp-3;
+  padding-bottom: $sp-1;
+  padding-left: $sp-3;
+
+  &:hover,
+  &.active {
+    background-color: $grey-color-light;
+  }
+}
+
+.search-result-title {
+  display: block;
+  padding-top: $sp-2;
+  padding-bottom: $sp-2;
+
+  @include media-query($on-palm) {
+    display: inline-block;
+    width: 40%;
+    padding-right: $sp-2;
+    vertical-align: top;
+  }
+}
+
+.search-result-doc {
+  display: flex;
+  align-items: center;
+  word-wrap: break-word;
+
+  &.search-result-doc-parent {
+    opacity: 0.5;
+    font-size: 12px;
+
+    @include media-query($on-laptop) {
+      font-size: 11px;
+    }
+  }
+
+  .search-result-icon {
+    width: $sp-4;
+    height: $sp-4;
+    margin-right: $sp-2;
+    color: $brand-color;
+    flex-shrink: 0;
+  }
+
+  .search-result-doc-title {
+    overflow: auto;
+  }
+}
+
+.search-result-section {
+  margin-left: #{$sp-4 + $sp-2};
+  word-wrap: break-word;
+}
+
+.search-result-rel-url {
+  display: block;
+  margin-left: #{$sp-4 + $sp-2};
+  overflow: hidden;
+  color: $search-result-preview-color;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 9px;
+}
+
+.search-result-previews {
+  display: block;
+  padding-top: $sp-2;
+  padding-bottom: $sp-2;
+  padding-left: $sp-4;
+  margin-left: $sp-2;
+  color: $search-result-preview-color;
+  word-wrap: break-word;
+  border-left: 1px solid;
+  border-left-color: $grey-color;
+  font-size: 11px;
+
+  @include media-query($on-palm) {
+    display: inline-block;
+    width: 60%;
+    padding-left: $sp-2;
+    margin-left: 0;
+    vertical-align: top;
+  }
+}
+
+.search-result-preview + .search-result-preview {
+  margin-top: $sp-1;
+}
+
+.search-result-highlight {
+  font-weight: bold;
+}
+
+.search-no-result {
+  padding-top: $sp-2;
+  padding-right: $sp-3;
+  padding-bottom: $sp-2;
+  padding-left: $sp-3;
+  font-size: 12px;
+}
+
+.search-button {
+  position: fixed;
+  right: $sp-4;
+  bottom: $sp-4;
+  display: flex;
+  width: $sp-9;
+  height: $sp-9;
+  background-color: $search-background-color;
+  border: 1px solid rgba($brand-color, 0.3);
+  border-radius: #{$sp-9 / 2};
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+  align-items: center;
+  justify-content: center;
+}
+
+.search-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 0;
+  height: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  transition: opacity ease $transition-duration, width 0s $transition-duration,
+    height 0s $transition-duration;
+}
+
+.search-active {
+  .search {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+  }
+
+  .search-input-wrap {
+    height: $sp-10;
+    border-radius: 0;
+
+    @include media-query($on-laptop) {
+      width: $search-results-width;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+    }
+  }
+
+  .search-input {
+    background-color: $search-background-color;
+
+    @include media-query($on-laptop) {
+      padding-left: #{$sp-4 * 1.25 + $sp-5};
+    }
+  }
+
+  .search-label {
+    @include media-query($on-laptop) {
+      padding-left: #{$sp-4 * 1.25};
+    }
+  }
+
+  .search-results {
+    display: block;
+  }
+
+  .search-overlay {
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    transition: opacity ease $transition-duration, width 0s, height 0s;
+  }
+
+  @include media-query($on-laptop) {
+    .main {
+      position: fixed;
+    }
+  }
+
+  .main-header {
+    padding-top: $sp-10;
+
+    @include media-query($on-laptop) {
+      padding-top: 0;
+    }
+  }
+}
+
+/**
+ * 1. Address `appearance` set to `searchfield` in Safari and Chrome.
+ * 2. Address `box-sizing` set to `border-box` in Safari and Chrome
+ *    (include `-moz` to future-proof).
+ */
+
+input[type="search"] {
+  -webkit-appearance: textfield; /* 1 */
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box; /* 2 */
+  box-sizing: content-box;
+}
+
+/**
+ * Remove inner padding and search cancel button in Safari and Chrome on OS X.
+ * Safari (but not Chrome) clips the cancel button when the search input has
+ * padding (and `textfield` appearance).
+ */
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}

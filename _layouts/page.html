@@ -2,8 +2,24 @@
 layout: default
 ---
 
-<header class="short">
-	{% include navigation/top.html %}
-</header>
+  <header class="page-header">
+      <div>
+        {% include sidenav.html %}
+      </div>
+      {% if page.section contains 'Authors and Composers' %}
+        <h1 class="page-title-full">{{ page.author_first }} {{ page.author_last }}</h1>
+        <h1 class="page-subtitle">
+      {% else %}
+    <h1 class="page-title-full">{{ page.title | escape }}</h1>
+    <h1 class="page-subtitle">
+      {% endif %}
+      {% if page.section %}
+        {{ page.section | escape }}
+      {% endif %}
 
-<div class="wrapper wrapper-large">{{ content }}</div>
+    </h1>
+  </header>
+
+  <div class="page-content">
+    {{ content }}
+  </div>

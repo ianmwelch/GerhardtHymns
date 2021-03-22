@@ -1,17 +1,17 @@
 ---
 title: Ich erhebe, Herr, zu dir
-category: christian life
-number: 56
-year: 1648
-meter: 77 77 77
-stanzas: 8
-scripture: Psalm 121
+category: Christian Life
+hymn_number: 56
+hymn_year: 1648
+hymn_meter: 77 77 77
+hymn_stanzas: 8
+hymn_scripture: Psalm 121
 cruger: —
-ebeling: 130
+ebeling: 103
 feustking: 151
 zahn: 3361a (Crüger)
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

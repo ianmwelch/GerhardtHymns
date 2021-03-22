@@ -1,8 +1,11 @@
 ---
 title: Massie, Edward (1805–1893)
-section: Authors
-author: m
-layout: index
+author_first: Edward 
+author_last: Massie
+author_date: 1805–1893
+section: Authors and Composers
+image: 
+layout: page
 ---
 
 Massie, Edward, M.A., (1805–1893) was the son of Rev. R. Massie of St. Bridget's, Chester, and younger brother to [Richard Massie](/authors/massie_r). He was educated at Shrewsbury School and Wadham College, Oxford; B.A. 1830, M.A. 1834. He took Holy Orders in 1830. He died at Grange-over-Sands, Lancashire, in 1893. His published works include *A Few Hymns for Occasional Use in the Services of the Church*, 1862, and *Sacred Odes*, 1866 (volume 1) and 1867 (volume 2). The latter contains many translations from the German.

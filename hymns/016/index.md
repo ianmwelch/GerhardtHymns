@@ -1,17 +1,18 @@
 ---
 title: Hör an, mein Herz, die sieben Wort
-category: passion
-number: 16
-year: 1653
-meter: 87 87 447 447
-stanzas: 15
-scripture: 
+category: Passion
+hymn_number: 16
+hymn_year: 1653
+hymn_meter: 87 87 447 447
+hymn_stanzas: 15
+hymn_scripture: 
 cruger: 254.
 ebeling: 73
 feustking: 33
 zahn: 7622 (Ebeling)
 bwv: —
-layout: hymndata
+layout: hymn
+workflow: text
 ---
 <br>
 

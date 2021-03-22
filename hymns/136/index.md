@@ -1,17 +1,17 @@
 ---
 title: Wo findet sich doch das
-category: other
-number: 136
-year: 1655
-meter: 13 13 12 12
-stanzas: 4
-scripture: 
+category: Other
+hymn_number: 136
+hymn_year: 1655
+hymn_meter: 13 13 12 12
+hymn_stanzas: 4
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
-<br>
+[information]
 

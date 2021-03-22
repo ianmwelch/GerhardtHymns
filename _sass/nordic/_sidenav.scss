@@ -1,0 +1,108 @@
+.sidenav-group {
+  float:right;
+  overflow: auto;
+  width:30%;
+  padding-left:40px;
+  padding-top:2px;
+  padding-bottom: 40px;
+  margin-top: 10px;
+}
+
+@include media-query($on-laptop) {
+  .sidenav-group {
+    float: none;
+    width: 100%;
+    padding-left: 0px;
+    margin-top: 10px;
+  }
+}
+
+.sidenav {
+  background-color: white;
+  color: black;
+  width: 100%;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  text-align: left;
+  outline: none;
+  font-family: $base-font-sans;
+  font-weight: 600;
+  text-transform: lowercase;
+  font-variant: small-caps;
+  font-size: 24px;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+
+.sidenav:after {
+  display: none;
+}
+
+.sidenav.active:after {
+  display: none;
+}
+
+.sidenav-panel {
+  border-bottom: 0px;
+
+  b {
+    font-family: $base-font-sans;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+  }
+  }
+
+
+@include media-query($on-laptop) {
+.sidenav {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  width: 100%;
+  border-top: 2px solid rgba(0,0,0,1);
+  border-bottom: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  text-align: left;
+  outline: none;
+  font-family: $base-font-sans;
+  text-transform: lowercase;
+  font-variant: small-caps;
+  font-size: 24px;
+  padding: 8px 20px 0px 0px;
+  margin-top: -2px;
+  margin-bottom: 0px;
+}
+
+.active, .sidenav:hover {
+  
+}
+
+.sidenav:after {
+  display: block;
+  content: '\002B';
+  color: black;
+  font-weight: normal;
+  font-size: 1.5em;
+  float: right;
+  margin-left: 5px;
+  margin-top: -6px;
+}
+
+.sidenav.active:after {
+  display: block;
+  content: "\2212";
+}
+
+.sidenav-panel {
+  padding: 0 0px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  border-bottom: 2px solid rgba(0,0,0,1);
+}
+}

@@ -1,0 +1,28 @@
+---
+title: Progress
+layout: default
+permalink: workflow/
+---
+
+<h1 class="post-title">{{ page.title }}</h1><br>
+
+<p style="font-size: 24px">This website uses a four-state workflow to drive the development of content. This page offers an overview of the site's content by workflow status.</p><br>
+	
+<table>
+	<thead>
+		<tr style="border:none;">
+			<td style="width: 25%;padding:0;"><strong>Data and Texts</strong></td>
+			<td style="width: 25%;padding:0;"><strong>Tunes and Music</strong></td>
+			<td style="width: 25%;padding:0;"><strong>Analysis</strong></td>
+			<td style="width: 25%;padding:0;"><strong>Completed</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr style="border:none;">
+			<td style="width: 25%;padding:0;">{% assign text = site.html_pages | sort:"title" | where: "workflow","text" %}<h1 class="text-red-000">{{ text.size }}</h1><a class="btn " href="{{ site.baseurl }}/workflow/text.html">Document List</a></td>
+			<td style="width: 25%;padding:0;">{% assign music = site.html_pages | sort:"title" | where: "workflow","music" %}<h1 class="text-yellow-200">{{ music.size }}</h1><a class="btn " href="{{ site.baseurl }}/workflow/music.html">Document List</a></td>
+			<td style="width: 25%;padding:0;">{% assign analysis = site.html_pages | sort:"title" | where: "workflow","analysis" %}<h1 class="text-blue-000">{{ analysis.size }}</h1><a class="btn " href="{{ site.baseurl }}/workflow/analysis.html">Document List</a></td>
+			<td style="width: 25%;padding:0;">{% assign completed = site.html_pages | sort:"title" | where: "workflow","completed" %}<h1 class="text-green-000">{{ completed.size }}</h1><a class="btn " href="{{ site.baseurl }}/workflow/completed.html">Document List</a></td>
+		</tr>
+	</tbody>
+</table>

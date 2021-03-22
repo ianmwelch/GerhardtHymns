@@ -1,17 +1,17 @@
 ---
 title: Wohl dem, der den Herren scheuet
-category: christian life
-number: 63
-year: 1653
-meter: 87 87 77 88
-stanzas: 8
-scripture: Psalm 112
+category: Christian Life
+hymn_number: 63
+hymn_year: 1653
+hymn_meter: 87 87 77 88
+hymn_stanzas: 8
+hymn_scripture: Psalm 112
 cruger: 586.
 ebeling: 101
 feustking: 89
 zahn: 6604 (Ebeling)
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

@@ -1,17 +1,17 @@
 ---
 title: Hörst du hier Ewigkeit
-category: death and burial
-number: 126
-year: 1664
-meter: 78 87 88
-stanzas: 3
-scripture: 
+category: Death and Burial
+hymn_number: 126
+hymn_year: 1664
+hymn_meter: 78 87 88
+hymn_stanzas: 3
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

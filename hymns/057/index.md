@@ -1,17 +1,17 @@
 ---
 title: Weltskribenten und Poeten
-category: christian life
-number: 57
-year: 1650
-meter: 877 877
-stanzas: 7
-scripture: 
+category: Christian Life
+hymn_number: 57
+hymn_year: 1650
+hymn_meter: 877 877
+hymn_stanzas: 7
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

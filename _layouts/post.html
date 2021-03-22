@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-subtitle">{{ page.subtitle | escape }}</h1>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
+        Published on {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}
+      <br>
+      {% if page.tags.size > 0 %}
+        Tags: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/index.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} {% endunless %}{% endfor %}
+      {% endif %}
+  </p>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+
+<div class="bottom-nav">
+    <div class="bottom-nav-prev">
+      {% if page.previous.url %}
+       <a href="{{ site.baseurl }}{{page.previous.url}}">&larr;&nbsp;{{page.previous.title}}</a>
+      {% endif %}
+    </div>
+    <div class="bottom-nav-mid">
+      <a href="#top">Top</a>
+    </div>  
+    <div class="bottom-nav-next">
+      {% if page.next.url %}
+       <a href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}&nbsp;&rarr;</a>
+      {% endif %}
+    </div>
+  </div>

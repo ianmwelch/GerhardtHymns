@@ -1,17 +1,17 @@
 ---
 title: Liebes Kind, wenn ich bei mir
-category: death and burial
-number: 123
-year: 1660
-meter: 77 88
-stanzas: 13
-scripture: 
+category: Death and Burial
+hymn_number: 123
+hymn_year: 1660
+hymn_meter: 77 88
+hymn_stanzas: 13
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

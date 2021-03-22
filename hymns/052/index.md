@@ -1,17 +1,17 @@
 ---
 title: Herr, höre was mein Mund
-category: repentance
-number: 52
-year: 1648
-meter: 66 66 6
-stanzas: 19
-scripture: Psalm 143
+category: Repentance
+hymn_number: 52
+hymn_year: 1648
+hymn_meter: 66 66 6
+hymn_stanzas: 19
+hymn_scripture: Psalm 143
 cruger: —
 ebeling: 107
 feustking: 72
 zahn: 1647 (Ebeling)
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

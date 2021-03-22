@@ -1,40 +1,60 @@
----
-title: Nun laßt uns gehn und treten
-section: Text and Translations
-layout: hymn
----
-Most likely written during the Thirty Years' War. It first appeared in [Crüger's](/authors/crüger) *Praxis pietatis melica*, 1653, no. 106, in 15 stanzas of 4 lines. Later in [Ebeling's](/authors/ebeling) *Pauli Gerhardi Geistliche Andachten*, 1666/67, no. 58, and [Feustking's](/authors/feustking) *Pauli Gerhardi Geistreiche Hauss- und Kirchen-Lieder*, 1707, p. 20.
-
-#### Nun laßt uns gehn und treten
-
-[Text](/hymns/010/text/gerhardt) \| [Crüger](/hymns/010/scans/010-crüger.pdf) \| [Ebeling](/hymns/010/scans/010-ebeling.pdf) \| [Feustking](/hymns/010/scans/010-feustking.pdf)  
-
----
-
-#### Now let each humble creature
-
-In the *Supplement to German Psalmody*, 1765, p. 4, and *Select Hymns from German Psalmody*, Tranquebar, 1754, p. 7. [Text](/hymns/010/text/anonymous_1) \| [Scan](/hymns/010/scans/010-anonymous-1.pdf)
-
-#### Year after year commenceth
-
-In the *Moravian Hymn Book*, 1789, no. 507 (1849, no. 1106). Altered version of "Now Let Each Humble Creature" and beginning, "Year after year commenceth." Omits stanzas 2, 3, 6–10, 12, 13.  [Text](/hymns/010/text/anonymous_2) \| [Scan](/hymns/010/scans/010-anonymous-2.pdf)
-
-#### O come with prayer and singing
-
-[Richard Massie](/authors/massie_r) in the *British Herald*, Jan., 1865, p. 8. [Text](/hymns/010/text/massie_r) \| Scan
-
-#### In prayer your voices raise ye
-
-[John Kelly](/authors/kelly), 1867, p. 45. [Text](/hymns/010/text/kelly) \| [Scan](/hymns/010/scans/010-kelly.pdf)
-
-#### Christians all, with one accord
-
-[Edward Massie](/authors/massie_e), 1867, p. 168. Omits stanzas 3 and 10. [Text](/hymns/010/text/massie_e) \| [Scan](/hymns/010/scans/010-massie_e.pdf)
-
-#### With notes of joy and songs of praise
-
-[Robert Maguire](/authors/maguire), 1883, p. 24. Omits stanzas 6, 7, 9–11. [Text](/hymns/010/text/maguire) \| [Scan](/hymns/010/scans/010-maguire.pdf)
-
----
-
-<span class="button">[Translation Comparisons](/hymns/010/text/comparison)</span>
+1. Nun laßt uns gehn und treten  
+   Mit Singen und mit Beten  
+   Zum Herrn, der unserm Leben  
+   Bis hierher Kraft gegeben.  
+2. Wir gehn dahin und wandern  
+   Von einem Jahr zum andern,  
+   Wir leben und gedeihen  
+   Vom alten zu dem neuen.  
+3. Durch so viel Angst und Plagen,  
+   Durch Zittern und durch Zagen,  
+   Durch Krieg und große Schrecken,  
+   Die alle Welt bedecken.  
+4. Denn wie von treuen Müttern  
+   In schweren Ungewittern  
+   Die Kindlein hier auf Erden  
+   Mit Fleiß bewahret werden:  
+5. Also auch und nicht minder  
+   Läßt Gott ihm seine Kinder,  
+   Wenn Not und Trübsal blitzen,  
+   In seinem Schoße sitzen.  
+6. Ach Hüter unsers Lebens,  
+   Fürwahr, es ist vergebens  
+   Mit unserm Tun und Machen,  
+   Wo nicht dein' Augen wachen.  
+7. Gelobt sei deine Treue,  
+   Die alle Morgen neue,  
+   Lob sei den starken Händen,  
+   Die alles Herzleid wenden!  
+8. Laß ferner dich erbitten,  
+   O Vater, und bleib mitten  
+   In unserm Kreuz und Leiden  
+   Ein Brunnen unsrer Freuden.  
+9. Gib mir und allen denen,  
+   Die sich von Herzen sehnen  
+   Nach dir und deiner Hulde,  
+   Ein Herz, das sich gedulde!  
+10. Schleuß zu die Jammerpforten  
+   Und laß an allen Orten  
+   Auf so viel Blutvergießen  
+   Die Friedenströme fließen.  
+11. Sprich deinen milden Segen  
+   Zu allen unsern Wegen,  
+   laß Großen und auch Kleinen  
+   Die Gnadensonne scheinen!  
+12. Sei der Verlaßnen Vater,  
+   Der Irrenden Berater,  
+   Der Unversorgten Gabe,  
+   Der Armen Gut und Habe!  
+13. Hilf gnädig allen Kranken,  
+   Gib fröhliche Gedanken  
+   Den hochbetrübten Seelen,  
+   Die sich mit Schwermut quälen!  
+14. Und endlich, was das meiste,  
+   Füll uns mit deinem Geiste,  
+   Der uns hier herrlich ziere  
+   Und dort zum Himmel führe!  
+15. Das alles wollst du geben,  
+   O meines Lebens Leben,  
+   Mir und der Christenschare  
+   Zum selgen neuen Jahre!  

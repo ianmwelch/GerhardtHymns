@@ -1,17 +1,17 @@
 ---
 title: Weigels Schwarm und schnöde Rotte
-category: other
-number: 138
-year: 1658
-meter: 877 877
-stanzas: 5
-scripture: 
+category: Other
+hymn_number: 138
+hymn_year: 1658
+hymn_meter: 877 877
+hymn_stanzas: 5
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
-<br>
+[information]
 

@@ -1,17 +1,17 @@
 ---
 title: Herr Jesu, meine Liebe
-category: lord's supper
-number: 34
-year: 1667
-meter: 78 78 76 76 76 76
-stanzas: 8
-scripture: 
+category: Lord’s Supper
+hymn_number: 34
+hymn_year: 1667
+hymn_meter: 78 78 76 76 76 76
+hymn_stanzas: 8
+hymn_scripture: 
 cruger: —
 ebeling: 118
 feustking: 77
 zahn: 8259 (Ebeling)
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

@@ -2,4 +2,40 @@
 layout: default
 ---
 
-<div class="wrapper wrapper-large">{{ content }}</div>
+{{ content }}
+
+<h1>Featured Hymns</h1>
+{% assign featuredPages = site.pages | where: 'layout','hymn' %}
+{% assign pages = featuredPages | sample:4 %}
+<div class="image-row">
+	{% for page in pages %}
+		{% if page.layout contains 'hymn' %}
+		<div class="image-grid">
+			<div class="image-overlay">{{ page.hymn_number }}</div>
+			<a href="{{ page.url }}"><img src="/assets/images/image-1.png"></a>
+			<p></p>
+			<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+		</div>
+		{% endif %}
+	{% endfor %}
+	<a class="button button-1" href="/hymns">Browse Hymns</a>
+</div>
+
+
+<h1>Featured Authors</h1>
+{% assign featuredPages = site.pages | where: 'section','Authors and Composers' %}
+{% assign pages = featuredPages | sample:3 %}
+<div class="image-row">
+	{% for page in pages %}
+		{% if page.section contains 'Authors and Composers' %}
+		<div class="image-grid-3">
+			<a href="{{ page.url }}"><img src="/assets/images/image-2.png"></a>
+			<p></p>
+			<h2><a href="{{ page.url }}">{{ page.author_first }} {{ page.author_last }}</a></h2>
+			</div>
+		{% endif %}
+	{% endfor %}
+	<a class="button button-1" href="/indexes/authors">Browse Authors</a>
+</div>
+	
+

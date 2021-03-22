@@ -1,0 +1,22 @@
+---
+title: Hymns by Year
+section: Indexes
+order: 7
+layout: page-half
+---
+
+
+<div class="index-list">
+
+{% assign sortedPages = site.pages | where: 'layout','hymn' %}
+{% assign sortedYear = sortedPages | group_by_exp: 'page',"page.hymn_year | hymn_year:'%Y' " | sort:'name' %}
+
+{% for yearitem in sortedYear %}
+  <h3>{{ yearitem.name }}</h3>
+  
+  {% for item in yearitem.items %}
+      <p><a href='{{ item.url | absolute_url }}'>{{ item.title }}&emsp;&emsp;<b class="bold-number">{{ item.hymn_number }}</b></a></p>
+  {% endfor %}
+
+{% endfor %}
+</div>

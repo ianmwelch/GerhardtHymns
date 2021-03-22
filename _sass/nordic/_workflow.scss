@@ -1,0 +1,132 @@
+//
+// Labels (not the form kind)
+//
+
+.label,
+.label-blue {
+  display: inline-block;
+  padding-top: 0.16em;
+  padding-right: 0.56em;
+  padding-bottom: 0.16em;
+  padding-left: 0.56em;
+  margin-right: $spacing-unit * 0.5;
+  margin-bottom: $spacing-unit * 0.5;
+  color: white;
+  text-transform: uppercase;
+  vertical-align: middle;
+  background-color: #2869e6;
+  font-size: 11px !important;
+  border-radius: 0px;
+}
+
+.label-green {
+  background-color: #009c7b;
+}
+
+.label-purple {
+  background-color: #5e41d0;
+}
+
+.label-red {
+  background-color: #e94c4c;
+}
+
+.label-yellow {
+  color: #44434d;
+  background-color: #f7d12e;
+}
+
+.text-red-000 {
+  color: #f77e7e !important;
+  font-size: 42px;
+}
+
+.text-yellow-200 {
+  color: #f7d12e !important;
+  font-size: 42px;
+}
+
+.text-blue-000 {
+  color: #2c84fa !important;
+  font-size: 42px;
+}
+
+.text-green-000 {
+  color: #41d693 !important;
+  font-size: 42px;
+}
+
+//
+// Buttons
+//
+
+.btn {
+  display: inline-block;
+  box-sizing: border-box;
+  padding-top: 0.3em;
+  padding-right: 1em;
+  padding-bottom: 0.3em;
+  padding-left: 1em;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 500;
+  line-height: 1.5;
+  color: $brand-color;
+  text-decoration: none;
+  vertical-align: baseline;
+  cursor: pointer;
+  background-color: $background-color;
+  border-width: 0;
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+  appearance: none;
+
+  &:focus {
+    text-decoration: none;
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(blue, 0.25);
+  }
+
+  &:focus:hover,
+  &.selected:focus {
+    box-shadow: 0 0 0 3px rgba(blue, 0.25);
+  }
+
+  &:hover,
+  &.zeroclipboard-is-hover {
+    color: darken($brand-color, 2%);
+  }
+
+  &:hover,
+  &:active,
+  &.zeroclipboard-is-hover,
+  &.zeroclipboard-is-active {
+    text-decoration: none;
+    background-color: darken(#f7f7f7, 1%);
+  }
+
+  &:active,
+  &.selected,
+  &.zeroclipboard-is-active {
+    background-color: darken(#f7f7f7, 3%);
+    background-image: none;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.15);
+  }
+
+  &.selected:hover {
+    background-color: darken(#dcdcdc, 5%);
+  }
+
+  &:disabled,
+  &.disabled {
+    &,
+    &:hover {
+      color: rgba(102, 102, 102, 0.5);
+      cursor: default;
+      background-color: rgba(229, 229, 229, 0.5);
+      background-image: none;
+      box-shadow: none;
+    }
+  }
+}

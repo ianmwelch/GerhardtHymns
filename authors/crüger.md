@@ -1,8 +1,11 @@
 ---
 title: Crüger, Johann (1598-1662)
-section: Authors
-author: c
-layout: index
+author_first: Johann
+author_last: Crüger
+author_date: 1698–1662
+section: Authors and Composers
+image: 
+layout: page
 ---
 
 Crüger, Johann (1598–1662), the son of a prosperous innkeeper and grandson of the local pastor, was born on April 9, 1598, in the Prussian village of Gross-Breesen, near Guben, in Brandenburg. He attended schools at Guben, Sorau, and Breslau and was further educated at the Jesuit college in Olmütz. At the school of poetry in Regensburg, he studied music with the cantor Paulus Homberger, who had been a pupil of Giovanni Gabrieli (c. 1533–1612), the famous organist and composer at St. Mark’s in Venice. After traveling extensively throughout Austria, Hungary, Moravia, and Bohemia, he was for a brief time at Freiberg in Saxony and then became tutor at Berlin in the family of Colonel Christoph von Blumenthal (1615–1620), captain of the royal guard of Elector Frederick Wilhelm I of Brandenburg. He then studied theology and music for two years at Wittenberg University. For the next 40 years (1622–1662), he served as cantor and organist of St. Nicolaikirche in Berlin, where he died on February 23, 1662. One of his colleagues at St. Nicolai was Paul Gerhardt, who came there as deacon in 1657. Crüger was also for many years one of the teachers at the Gymnasium zum Grauen Kloster in Berlin.

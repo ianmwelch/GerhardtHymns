@@ -1,0 +1,45 @@
+@if index($hamburger-types, stand-r) {
+  /*
+   * Stand Reverse
+   */
+  .hamburger--stand-r {
+    .hamburger-inner {
+      transition: transform ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0.15s) cubic-bezier(0.55, 0.055, 0.675, 0.19),
+                  background-color ($hamburger-scale-speed * 0s) ($hamburger-scale-speed * 0.075s) linear;
+
+      &::before {
+        transition: top ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0.075s) ease-in,
+                    transform ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0s) cubic-bezier(0.55, 0.055, 0.675, 0.19);
+      }
+
+      &::after {
+        transition: bottom ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0.075s) ease-in,
+                    transform ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0s) cubic-bezier(0.55, 0.055, 0.675, 0.19);
+      }
+    }
+
+    &.is-active {
+      .hamburger-inner {
+        transform: rotate(-90deg);
+        background-color: transparent !important;
+
+        transition: transform ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0s) cubic-bezier(0.215, 0.61, 0.355, 1),
+                    background-color ($hamburger-scale-speed * 0s) ($hamburger-scale-speed * 0.15s) linear;
+
+        &::before {
+          top: 0;
+          transform: rotate(-45deg);
+          transition: top ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0.1s) ease-out,
+                      transform ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0.15s) cubic-bezier(0.215, 0.61, 0.355, 1);
+        }
+
+        &::after {
+          bottom: 0;
+          transform: rotate(45deg);
+          transition: bottom ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0.1s) ease-out,
+                      transform ($hamburger-scale-speed * 0.075s) ($hamburger-scale-speed * 0.15s) cubic-bezier(0.215, 0.61, 0.355, 1);
+        }
+      }
+    }
+  }
+}

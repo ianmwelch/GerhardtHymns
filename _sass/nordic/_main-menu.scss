@@ -1,0 +1,67 @@
+.main-menu {
+  display: none;
+  @media (min-width: $on-laptop) {
+    display: flex;
+    flex: auto;
+    justify-content: flex-end;
+  }
+  > ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    > li {
+      list-style: none;
+      font-size: 1em;
+      float: right;
+      line-height: $base-line-height * $base-font-size * 2.25;
+      font-family: $base-font-sans;
+      font-weight: 600;
+      text-transform: lowercase;
+      font-variant: small-caps;
+
+      // Gaps between nav items, but not on the last one
+        &:not(:last-child) {
+          margin-right: 30px;
+        }
+
+      > a {
+        position: relative;
+        color: $background-color;
+        text-decoration: none;
+        box-shadow: none;
+
+        &:hover {
+          opacity: 1;
+        }
+
+        &:before {
+          content: "";
+          position: absolute;
+          width: 100%;
+          height: 4px;
+          bottom: 0;
+          left: 0;
+          margin-bottom: -6px;
+          background-color: $background-color;
+          opacity: 0.5;
+          visibility: hidden;
+          -webkit-transform: scaleX(0);
+          transform: scaleX(0);
+          -webkit-transition: all 0.2s ease-in-out 0s;
+          transition: all 0.2s ease-in-out 0s;
+        }
+
+        &:visited {
+          color: $background-color;
+          opacity: 0.75;
+        }
+  
+        &:hover::before {
+          visibility: visible;
+          -webkit-transform: scaleX(1);
+          transform: scaleX(1);
+        }
+      }
+    }
+  }
+}

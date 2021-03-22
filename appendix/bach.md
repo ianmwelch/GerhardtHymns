@@ -1,10 +1,11 @@
 ---
 title: Bach and Gerhardt
 section: Appendix
-layout: appendix
+order: 5
+layout: page
 ---
 
-[Johann Sebastian Bach](/authors/bach) (1685–1750) used several of [Paul Gerhardt's](/authors/gerhardt) stanzas in cantatas, motets, his Christmas Oratorio, and Passions. In most cases single stanzas are used or slightly paraphrased. Bach's chorale cantata, BWV 92, uses Gerhardt's [*Ich hab in Gottes Herz und Sinn*](/hymns/073) almost in its entirety—omitting a couple stanzas (9 out of 12 total) and paraphrasing a few.
+[Johann Sebastian Bach](/authors/bach) (1685–1750) used several of [Paul Gerhardt's](/authors/gerhardt_p) stanzas in cantatas, motets, his Christmas Oratorio, and Passions. In most cases single stanzas are used or slightly paraphrased. Bach's chorale cantata, BWV 92, uses Gerhardt's [*Ich hab in Gottes Herz und Sinn*](/hymns/073) almost in its entirety—omitting a couple stanzas (9 out of 12 total) and paraphrasing a few.
 
 Listed below are Gerhardt's hymns used by Bach, their Bach reference number, and the tunes to which the text is sung. Decimal points indicate the movement number. You may also listen to these pieces on [Apple Music](http://www.apple.com/music/) by clicking the button below.
 

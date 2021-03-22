@@ -2,21 +2,16 @@
 layout: default
 ---
 
-<header class="short">
-	{% include navigation/top.html %}
-</header>
+  <header class="page-header">
+  
+    <div>
+        {% include sidenav-hymn.html %}
+    </div>
+      
+        <h1 class="page-title">{{ page.title | escape }}</h1>
+        <h1 class="page-number">{{ page.hymn_number | escape }}</h1>
+  </header>
 
-<div class="dark-content docs-container">
-	<div class="wrapper wrapper-large">
-			{% include sidebar/hymns.html %}
-		<section class="docs-main" id="doc">
-			<article class="content">
-				<h1>{{ page.title }}</h1>
-				<p class="docs-category">{% if page.section %}{{ page.section }}{% else %}{{ site.display_title }}{% endif %}</p>
-
-				<div>{{ content }}</div>
-
-			</article>
-		</section>
-	</div>
-</div>
+  <div class="page-content">
+    {{ content }}
+  </div>

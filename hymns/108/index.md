@@ -1,17 +1,17 @@
 ---
 title: Du meine Seele, singe
-category: praise and thanks
-number: 108
-year: 1653
-meter: 76 76 D
-stanzas: 10
-scripture: Psalm 146
+category: Praise and Thanks
+hymn_number: 108
+hymn_year: 1653
+hymn_meter: 76 76 D
+hymn_stanzas: 10
+hymn_scripture: Psalm 146
 cruger: 441.
 ebeling: 109
 feustking: 180
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

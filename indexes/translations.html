@@ -1,0 +1,18 @@
+---
+title: English Translations
+section: Indexes
+order: 2
+layout: page-half
+---
+<div class="index-list">
+{% assign sortedPages = site.pages | sort: 'title' %}
+{% assign sortedIndex = sortedPages | where: 'layout','hymn-text' %}
+{% assign hymns_by_title = sortedIndex | group_by_exp: "item", "item.title | slice: 0, 1" %}
+
+{% for letter in hymns_by_title %}
+  <h3>{{ letter.name }}</h3>
+    {% for item in letter.items %}
+      <p><a href="{{ item.url }}">{{item.title}}&emsp;<b class="bold-number">{{ item.number }}</b></a></p>
+    {%endfor%}
+{% endfor %}
+</div>

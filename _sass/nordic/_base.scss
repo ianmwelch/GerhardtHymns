@@ -1,0 +1,379 @@
+/**
+ * Reset some basic elements
+ */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/**
+ * Basic styling
+ */
+body {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $text-color;
+  background-color: $background-color;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+     -moz-font-feature-settings: "kern" 1;
+       -o-font-feature-settings: "kern" 1;
+          font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+  margin-bottom: $spacing-unit / 2;
+}
+
+
+
+/**
+ * `main` element
+ */
+main {
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+}
+
+
+
+/**
+ * Images
+ */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+
+
+/**
+ * Figures
+ */
+figure > img {
+  display: block;
+}
+
+figcaption {
+  font-size: $small-font-size;
+}
+
+
+
+/**
+ * Lists
+ */
+ul, ol {
+  margin-left: 0px;
+}
+
+li {
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
+}
+
+ol {
+  list-style: none;
+  counter-reset: nordic-counter;
+  display: block;
+  flex-wrap: wrap;
+  margin: 0;
+  padding-bottom: 10px;
+}
+ol li {
+  counter-increment: nordic-counter;
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+ol li::before {
+  content: counter(nordic-counter) "";
+  color: black;
+  font-family: $base-font-sans;
+  font-weight: bold;
+  font-feature-settings: "lnum";
+  margin-right: 1.25rem;
+  margin-top: 0.05em;
+}
+
+
+
+/**
+ * Headings
+ */
+h3, h4, h5, h6 {
+  font-family: $base-font-sans;
+}
+
+h1, h2 {
+  font-family: 'source-sans';
+  font-weight: bold;
+}
+
+h1 {
+  font-size: $base-font-size * 2;
+}
+
+h3 {
+  font-weight: 600;
+  color: $brand-color;
+  text-transform: lowercase;
+  font-variant: small-caps;
+}
+
+
+
+/**
+ * Links
+ */
+a {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $brand-color;
+  }
+
+  &:hover {
+    color: $brand-color;
+    text-decoration: none;
+    opacity: 0.75;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+
+/**
+ * Blockquotes
+ */
+blockquote {
+  color: black;
+  padding-left: $spacing-unit;
+  padding-right: $spacing-unit;
+  @include relative-font-size(1);
+  font-style: normal;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+  @include relative-font-size(0.9375);
+  color: $brand-blue-dark;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+
+
+/**
+ * Wrapper
+ */
+.wrapper {
+  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
+}
+
+
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+/**
+ * Icons
+ */
+
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: #{$grey-color};
+    padding-right: 5px;
+    vertical-align: text-top;
+}
+
+.social-media-list {
+  li + li {
+    padding-top: 5px;
+  }
+}
+
+
+
+/**
+ * Tables
+ */
+table {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: $table-text-align;
+  border-collapse: collapse;
+  
+  th, td {
+    padding: ($spacing-unit / 4) ($spacing-unit / 2);
+  }
+  th {
+    font-size: 18px;
+    font-family: $base-font-sans;
+    font-weight: 600;
+    text-transform: lowercase;
+    font-variant: small-caps;
+    background-color: lighten($grey-color-light, 3%);
+    
+  }
+  tr {
+    font-size: 16px;
+    border-bottom: 1px solid $grey-color-light;
+  }
+}
+
+/**
+ * Footnotes
+ */
+.footnotes {
+  border-top: solid 1px $grey-color;
+  padding-top: 10px;
+
+  ol {
+    list-style-type: decimal;
+    display: block;
+    list-style: revert;
+    margin: 1em 0;
+    padding: 0 0 0 40px;
+    font-size: 0.8rem;
+  }
+
+  li {
+    display: list-item;
+  }
+
+  ol li::before {
+  content: none;
+  display: none;
+}
+  
+  p {
+  font-size: 0.8rem;
+  line-height: 1rem;
+  margin: 0 0 0rem 0
+  }
+
+  a {
+    color: $brand-color;
+    box-shadow: none;
+  }
+}
+
+sup {
+  font-feature-settings: 'onum';
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+
+  a {
+    box-shadow: none;
+    color: $brand-color;
+  }  
+}
+
+/**
+ * Other
+ */
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: #EFEFEF 1px solid;
+  margin: 2em 0;
+  padding: 0;
+}
+
+
+/* Common classes */
+
+.f-right { float: right; }
+.f-left { float: left; }
+.clear { clear:both; }
+
+// to align div vertically and horizontally in center of another div
+.parent { display: flex;}
+.inner { align-self: center; }
+
+// justify
+.justify-center { justify-content: center; }
+.justify-spaceBetween { justify-content: space-between; }
+
+.w100 { width: 100% }
+.h100 { height: 100% }
+.wh100 { width: 100%; height: 100%}
+
+// position
+.absolute { position: absolute; }
+.relative { position: relative; }
+.top { top: 0 }
+.bottom { bottom: 0 }
+.right { right: 0 }
+.left { left: 0 }

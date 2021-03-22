@@ -1,0 +1,34 @@
+.hamburger {
+  padding: 15px 0 10px 10px;
+  outline: none;
+  z-index: 30;
+  cursor: pointer;
+  display: flex;
+    flex: auto;
+    justify-content: flex-end;
+  @media (min-width: $on-laptop) {
+    display: none;
+  }
+  &:focus {
+    outline: none;
+  }
+  .hamburger-inner,
+  .hamburger-inner::before,
+  .hamburger-inner::after {
+    background: $background-color;
+  }
+
+  // Change Hamburger Line Length and Placement //
+
+  // .hamburger-inner::after {
+  //  width: 18px;
+  //  right: 0;
+  // }
+  
+  &.is-active {
+    .hamburger-inner::after {
+      width: inherit;
+      right: unset;
+    }
+  }
+}

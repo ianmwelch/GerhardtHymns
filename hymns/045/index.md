@@ -1,17 +1,17 @@
 ---
 title: Ein Weib, das Gott den Herren liebt
-category: marriage
-number: 45
-year: 1653
-meter: 88 88
-stanzas: 19
-scripture: 
+category: Marriage
+hymn_number: 45
+hymn_year: 1653
+hymn_meter: 88 88
+hymn_stanzas: 19
+hymn_scripture: 
 cruger: 631.
 ebeling: 37
 feustking: 86
 zahn: 630 (Crüger)
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

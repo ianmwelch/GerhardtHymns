@@ -1,17 +1,17 @@
 ---
 title: Nun sei getrost und unbetrübt
-category: death and burial
-number: 125
-year: 1664
-meter: 87 87 887
-stanzas: 10
-scripture: 
+category: Death and Burial
+hymn_number: 125
+hymn_year: 1664
+hymn_meter: 87 87 887
+hymn_stanzas: 10
+hymn_scripture: 
 cruger: —
 ebeling: 69
 feustking: 221
 zahn: 4482a (?)
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

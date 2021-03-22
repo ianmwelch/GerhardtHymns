@@ -1,0 +1,13 @@
+main:
+  - name: "Hymns"
+    url: "/hymns"
+    weight: 2
+  - name: "Appendix"
+    url: "/appendix/sources"
+    weight: 3
+  - name: "Indexes"
+    url: "/indexes/firstlines"
+    weight: 4
+  - name: "About"
+    url: "/about"
+    weight: 5

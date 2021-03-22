@@ -1,0 +1,229 @@
+.button {
+  background-color: $brand-color;
+  border: none;
+  color: $background-color;
+  padding: 14px 28px;
+  font-family: $base-font-sans;
+  font-size: 18px;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  text-transform: lowercase;
+  font-variant: small-caps; 
+  display: inline-block;
+  margin: 14px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  box-shadow: none;
+  &:visited {
+    color: $brand-color;
+  }
+}
+
+.button-1 {
+  background-color: $background-color; 
+  color: $brand-color; 
+  border: 3px solid $brand-color;
+}
+
+.button-1:hover {
+  background-color: $brand-color;
+  color: white;
+}
+
+
+.back-button {
+
+  h4 {
+    font-weight: 600;
+    text-transform: lowercase;
+    font-variant: small-caps;
+
+    a {
+      color: $brand-color;
+      text-decoration: none;
+      box-shadow: none;
+    }
+  }
+
+}
+
+.sc {
+  text-transform: lowercase;
+  font-variant: small-caps;
+  font-weight: normal;
+  
+  b {font-weight: normal;}
+  
+}
+
+.compare {
+  float: left;
+  width: 50%;
+  font-size: 16px;
+
+  h4 {
+    font-size: 14px;
+  }
+}
+@include media-query($on-laptop) {
+  .compare {
+    width: 100%;
+  }
+}
+
+.bold-number {
+  font-family: $base-font-sans;
+  font-weight: bold;
+  font-feature-settings: 'lnum';
+}
+
+.index-list {
+  p {
+    margin-bottom: 5px;
+  }
+  a {
+    color: $text-color;
+    box-shadow: none;
+    &:hover {
+      color: $brand-color;
+      opacity: 1;
+    }
+  }
+  h3:not(:first-child){
+    margin-top: $spacing-unit;
+  }
+}
+
+.banner-image {
+	position: relative;
+  	color: white;
+  	height: 500px;
+  	background-size: cover;
+  	background-position: center;
+  	z-index: 1;
+    margin-top: -40px;
+}
+
+
+.banner-overlay {
+	 height: 380px;
+	 padding: $spacing-unit * 2;
+    background: -webkit-linear-gradient(top, $background-color 0%,$brand-color 100%);
+    background: linear-gradient(to bottom, $background-color 0%,$brand-color 100%);
+    background: linear-gradient(to bottom, $background-color 0%,$brand-color 100%);
+   	opacity:.7;
+   	z-index: 2;
+}
+.banner-text {
+	position: flex;
+    font-family: $base-font-family;
+    font-weight: lighter;
+    font-size: 34px;
+    color: $text-color;
+    z-index: 100;
+    justify-content: center;
+    align-items: center;
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: $spacing-unit * 4;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  @extend %clearfix;
+
+     @include media-query($on-laptop) {
+      font-size:28px;
+      padding-top: $spacing-unit * 3;
+    }
+
+    @include media-query($on-palm) {
+      font-size:28px;
+      padding-top: $spacing-unit * 2;
+    }
+
+  	}
+
+.image-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-between;
+  align-content:flex-start;
+  margin-bottom: $spacing-unit * 3;
+}
+
+.image-grid {
+  width:calc(23% - 5px);
+
+  a {
+    box-shadow: none;
+  }
+}
+
+.image-grid img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+@include media-query(1000px) {
+  .image-grid {
+    flex: 46.5%;
+    max-width: 46.5%;
+  }
+}
+
+@include media-query($on-palm) {
+  .image-grid {
+    flex: 100%;
+    max-width: 100%;
+    padding: 0px;
+  }
+}
+
+.image-overlay {
+  position: absolute;
+  color: $background-color;
+  vertical-align: middle;
+  font-size: 70px;
+  text-align: center;
+  flex:calc(23% - 5px);
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+
+.image-grid-3 {
+  width:calc(30% - 5px);
+
+  a {
+    box-shadow: none;
+  }
+}
+
+.image-grid-3 img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+@include media-query(1000px) {
+  .image-grid-3 {
+    flex: 60.5%;
+    max-width: 60.5%;
+  }
+}
+
+@include media-query($on-palm) {
+  .image-grid-3 {
+    flex: 100%;
+    max-width: 100%;
+    padding: 0px;
+  }
+}
+
+
+
+

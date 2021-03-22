@@ -1,17 +1,17 @@
 ---
 title: So geht der alte liebe Herr nun auch dahin
-category: death and burial
-number: 132
-year: 1667
-meter: 12 13 12 13
-stanzas: 4
-scripture: 
+category: Death and Burial
+hymn_number: 132
+hymn_year: 1667
+hymn_meter: 12 13 12 13
+hymn_stanzas: 4
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

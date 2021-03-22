@@ -1,17 +1,17 @@
 ---
 title: Unter allen, die da leben
-category: friendship
-number: 48
-year: 1665
-meter: 87 87 77
-stanzas: 2
-scripture: 
+category: Friendship
+hymn_number: 48
+hymn_year: 1665
+hymn_meter: 87 87 77
+hymn_stanzas: 2
+hymn_scripture: 
 cruger: —
 ebeling: —
 feustking: —
 zahn: —
 bwv: —
-layout: hymndata
+layout: hymn
 ---
 <br>
 

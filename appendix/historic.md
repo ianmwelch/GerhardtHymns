@@ -1,6 +1,8 @@
 ---
 title: Hymns According to the Historic Lectionary
-layout: appendix
+section: Appendix
+order: 6
+layout: page
 ---
 
 The following is a list of hymns that could be used within the historic Lutheran lectionary. For another lectionary, see suggestions in the [Revised Common Lectionary](/appendix/rcl).
