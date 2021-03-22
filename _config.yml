@@ -1,10 +1,7 @@
 title: The Gerhardt Hymnal
 author: Ian M. Welch 
-description: >- # this means to ignore newlines until "baseurl:"
-  Paul Gerhardt's hymns and information about them.
+description: Paul Gerhardt's hymns and information about them.
 url: gerhardthymns.com
-twitter_username: 
-github_username: 
 
 nordic:
   date_format: "%B %-d, %Y"
