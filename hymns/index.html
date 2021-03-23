@@ -12,7 +12,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Advent' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
