@@ -19,8 +19,8 @@ zahn:
     link: /hymns/010/scans/zahn-159.pdf
   - name: 176 (Ebeling)
     link: /hymns/010/scans/zahn-176.pdf
-bwv: —
-hymn_scripture: [Psalm 46:4, Psalm 87:7, Isaiah 12:3]
+bwv: 
+hymn_scripture: ["Psalm 46:4", "Psalm 87:7", "Isaiah 12:3"]
 layout: hymn
 workflow: analysis
 ---
