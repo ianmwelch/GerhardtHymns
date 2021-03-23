@@ -8,3 +8,6 @@ nordic:
 
 # Nav Options
 reverse: false
+
+exclude:
+  - .jekyll-cache
