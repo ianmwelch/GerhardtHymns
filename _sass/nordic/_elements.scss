@@ -106,7 +106,8 @@
     margin-top: -40px;
 
     @include media-query($on-laptop) {
-      height: 700px;
+      height: 100%;
+      padding-bottom: $spacing-unit;
     }
 }
 
