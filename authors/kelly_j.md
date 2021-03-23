@@ -4,7 +4,6 @@ author_first: John
 author_last: Kelly
 author_date: 1833-90
 section: Authors and Composers
-image: 
 layout: page
 ---
 

@@ -4,7 +4,6 @@ author_first: Johann Georg
 author_last: Ebeling
 author_date: 1637-76
 section: Authors and Composers
-image: 
 layout: page
 ---
 

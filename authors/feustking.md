@@ -4,7 +4,6 @@ author_first: Johann Heinrich
 author_last: Feustking
 author_date: 1672-1713
 section: Authors and Composers
-image: 
 layout: page
 ---
 

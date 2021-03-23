@@ -4,7 +4,6 @@ author_first: Arthur Tozer
 author_last: Russell
 author_date: 1806–1874
 section: Authors and Composers
-image: 
 layout: page
 ---
 

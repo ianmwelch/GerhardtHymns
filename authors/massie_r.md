@@ -4,7 +4,6 @@ author_first: Richard
 author_last: Massie
 author_date: 1800–1887
 section: Authors and Composers
-image: 
 layout: page
 ---
 

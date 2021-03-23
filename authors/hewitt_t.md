@@ -4,7 +4,6 @@ author_first: Theodore Brown
 author_last: Hewitt
 author_date: 1881–1952
 section: Authors and Composers
-image: 
 layout: page
 ---
 

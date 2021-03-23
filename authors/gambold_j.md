@@ -4,7 +4,6 @@ author_first: John
 author_last: Gambold
 author_date: 1711–71
 section: Authors and Composers
-image: 
 layout: page
 ---
 

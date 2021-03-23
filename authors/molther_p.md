@@ -4,7 +4,6 @@ author_first: Philipp Heinrich
 author_last: Molther
 author_date: 1714–1780
 section: Authors and Composers
-image: 
 layout: page
 ---
 

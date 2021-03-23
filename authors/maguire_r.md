@@ -4,7 +4,6 @@ author_first: Robert
 author_last: Maguire
 author_date: 1826–1890
 section: Authors and Composers
-image: 
 layout: page
 ---
 

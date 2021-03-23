@@ -4,7 +4,6 @@ author_first: Paul
 author_last: Gerhardt
 author_date: 1607–76
 section: Authors and Composers
-image: 
 layout: page
 ---
 

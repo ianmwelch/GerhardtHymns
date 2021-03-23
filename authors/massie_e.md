@@ -4,7 +4,6 @@ author_first: Edward
 author_last: Massie
 author_date: 1805–1893
 section: Authors and Composers
-image: 
 layout: page
 ---
 

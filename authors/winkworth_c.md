@@ -4,7 +4,6 @@ author_first: Catherine
 author_last: Winkworth
 author_date: 1827–1878
 section: Authors and Composers
-image: 
 layout: page
 ---
 

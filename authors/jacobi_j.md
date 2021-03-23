@@ -4,7 +4,6 @@ author_first: John Christian
 author_last: Jacobi
 author_date: 1670–1750
 section: Authors and Composers
-image: 
 layout: page
 ---
 

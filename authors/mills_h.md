@@ -4,7 +4,6 @@ author_first: Henry
 author_last: Mills
 author_date: 1786–1867
 section: Authors and Composers
-image: 
 layout: page
 ---
 

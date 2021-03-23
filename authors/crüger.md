@@ -4,7 +4,6 @@ author_first: Johann
 author_last: Crüger
 author_date: 1698–1662
 section: Authors and Composers
-image: 
 layout: page
 ---
 
