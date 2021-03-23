@@ -20,7 +20,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Christmas' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -28,7 +28,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'New Year' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -36,7 +36,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Passion' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -44,7 +44,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Easter' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -52,7 +52,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Pentecost' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -60,7 +60,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Trinity' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -68,7 +68,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Baptism' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -76,7 +76,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Lord’s Supper' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -84,7 +84,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Morning' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -92,7 +92,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Evening' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -100,7 +100,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Summer' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -108,7 +108,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Travel' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -116,7 +116,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Marriage' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -124,7 +124,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Friendship' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -132,7 +132,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Repentance' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -140,7 +140,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Christian Life' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -148,7 +148,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Cross and Comfort' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -156,7 +156,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Praise and Thanks' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -164,7 +164,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Death and Burial' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
@@ -172,7 +172,7 @@ layout: page-full
 
 {% for page in sortedPages %}
       {% if page.category contains 'Other' %}
-        <p><a href='{{ page.url | absolute_url }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
+        <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
 
