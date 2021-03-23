@@ -2,8 +2,7 @@
 <div class="sidenav-group">
   <button class="sidenav">Contents</button>
     <div class="sidenav-panel">
-      {% capture my_include %}{% include_relative contents.html %}{% endcapture %}
-      {{ my_include | markdownify }}
+      {% include_relative contents.html %}
       <br>
     </div>
 </div>
