@@ -104,6 +104,10 @@
   	background-position: center;
   	z-index: 1;
     margin-top: -40px;
+
+    @include media-query($on-laptop) {
+      height: 700px;
+    }
 }
 
 

@@ -24,7 +24,8 @@
 
   @include media-query($on-laptop) {
     width: 100%;
-    margin-left: -15px;
+    margin-left: -5px;
+    @include relative-font-size(1.25);
   }
 }
 
