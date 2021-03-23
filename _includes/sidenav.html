@@ -2,7 +2,17 @@
 <div class="sidenav-group">
   <button class="sidenav">Contents</button>
     <div class="sidenav-panel">
-      {% include_relative contents.html %}
+
+      {% if page.section == "Indexes" %}
+      {% include toc/contents-indexes.html %}
+      {% endif %}
+      {% if page.section == "Appendix" %}
+      {% include toc/contents-appendix.html %}
+      {% endif %}
+      {% if page.section == "About" %}
+      {% include toc/contents-about.html %}
+      {% endif %}
+
       <br>
     </div>
 </div>

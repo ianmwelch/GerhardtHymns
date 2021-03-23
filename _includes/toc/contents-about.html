@@ -1,6 +1,5 @@
-[About This Book](/about)
 {% assign ordered_pages = site.pages | sort:"order" %}
 {% assign sorted_about = ordered_pages | where: 'section','About' %}
 {% for page in sorted_about %}
-  <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+  <p><a href="{{ page.url | relative_url }}">{{ page.title }}</a></p>
 {% endfor %}

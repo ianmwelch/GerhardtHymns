@@ -1,5 +1,6 @@
 ---
 title: About This Book
+section: About
 layout: page
 ---
 
