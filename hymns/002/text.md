@@ -1,108 +1,97 @@
 1. Warum willst du draußen stehen,  
-   Du Gesegneter des Herrn?  
+   du Gesegneter des Herrn?  
    Laß dir bei mir einzugehen  
-   Wohl gefallen, du mein Stern!  
+   wohl gefallen, du mein Stern!  
    Du, mein Jesu, meine Freud,  
    Helfer in der rechten Zeit,  
-   Hilf, o Heiland, meinem Herzen  
-   Von den Wunden, die mich schmerzen.
+   hilf, O Heiland, meinem Herzen  
+   von den Wunden, die mich schmerzen.  
 
 2. Meine Wunden sind der Jammer,  
-   Welchen oftmals Tag und Nacht  
-   Des Gesetzes starker Hammer  
-   Mir mit seinem Schrecken macht.  
+   welchen oftmals Tag und Nacht  
+   des Gesetzes starker Hammer  
+   mir mit seinem Schrecken macht.  
    O der schweren Donnerstimm,  
-   Die mir Gottes Zorn und Grimm  
-   Also tief ins Herze schläget,  
-   Daß sich all mein Blut beweget.
-
+   die mir Gottes Zorn und Grimm  
+   also tief ins Herze schläget,  
+   daß sich all mein Blut beweget.  
 3. Dazu kommt des Teufels Lügen,  
-   Der mir alle Gnad absagt,  
-   Als müßt ich nun ewig liegen  
-   In der Höllen, die ihn plagt;  
-   Ja auch, was noch ärger ist,  
-   So zermartert und zerfrißt  
-   Mich mein eigenes Gewissen  
-   Mit vergift'ten Schlangenbissen.
-
+   der mir alle Gnad absagt,  
+   als müßt ich nun ewig liegen  
+   in der Höllen, die ihn plagt;  
+   ja auch, was noch ärger ist,  
+   so zermartert und zerfrißt  
+   mich mein eigenes Gewissen  
+   mit vergift’ten Schlangenbissen.  
 4. Will ich dann mein Elend lindern  
-   Und erleichtern meine Not  
-   Bei der Welt und ihren Kindern.  
+   und erleichtern meine Not  
+   bei der Welt und ihren Kindern.  
    Fall ich vollends in den Kot:  
    Da ist Trost, der mich betrübt,  
    Freude, die mein Unglück liebt,  
    Helfer, die mir Herzleid machen,  
-   Gute Freunde, die mein lachen.
-
+   gute Freunde, die mein lachen.  
 5. In der Welt ist alles nichtig,  
-   Nichts ist, das nicht kraftlos wär:  
+   nichts ist, das nicht kraftlos wär:  
    Hab ich Hoheit, die ist flüchtig!  
-   Hab ich Reichtum, was ist's mehr  
-   Als ein Stücklein armer Erd?  
+   Hab ich Reichtum, was ist’s mehr  
+   als ein Stücklein armer Erd?  
    Hab ich Lust, was ist sie wert?  
-   Was ist's, das mich heut erfreuet,  
-   Das mich morgen nicht gereuet?
-
+   Was ist’s, das mich heut erfreuet,  
+   das mich morgen nicht gereuet?  
 6. Aller Trost und alle Freude  
-   Ruht in dir, Herr Jesu Christ;  
-   Dein Erfreuen ist die Weide,  
-   Da man sich recht fröhlich ißt.  
-   Leuchte mir, o Freudenlicht,  
-   Ehe mir mein Herze bricht;  
-   Laß mich, Herr, an dir erquicken;  
-   Jesu, komm, laß dich erblicken!
-
+   ruht in dir, Herr Jesu Christ;  
+   dein Erfreuen ist die Weide,  
+   da man sich recht fröhlich ißt.  
+   Leuchte mir, O Freudenlicht,  
+   ehe mir mein Herze bricht;  
+   laß mich, Herr, an dir erquicken;  
+   Jesu, komm, laß dich erblicken!  
 7. Freu dich, Herz, du bist erhöret,  
-   Jetzo zeucht er bei dir ein,  
-   Sein Gang ist zu dir gekehret,  
-   Heiß ihn nur willkommen sein  
-   Und bereite dich ihm zu,  
-   Gib dich ganz zu seiner Ruh,  
-   Öffne dein Gemüt und Seele,  
-   Klag ihm, was dich drückt und quäle.
-
+   jetzo zeucht er bei dir ein,  
+   sein Gang ist zu dir gekehret,  
+   heiß ihn nur willkommen sein  
+   und bereite dich ihm zu,  
+   gib dich ganz zu seiner Ruh,  
+   öffne dein Gemüt und Seele,  
+   klag ihm, was dich drückt und quäle.  
 8. Siehst du, wie sich alles setzet,  
-   Was dir vor zuwider stund?  
+   was dir vor zuwider stund?  
    Hörst du, wie er dich ergötzet  
-   Mit dem zuckersüßen Mund?  
+   mit dem zuckersüßen Mund?  
    Ei, wie läßt der große Drach  
-   All sein Tun und Toben nach!  
+   all sein Tun und Toben nach!  
    Er muß aus dem Vorteil ziehen  
-   Und in seinen Abgrund fliehen.
-
+   und in seinen Abgrund fliehen.  
 9. Nun, du hast ein süßes Leben;  
-   Alles, was du willst, ist dein.  
+   alles, was du willst, ist dein.  
    Christus, der sich dir ergeben,  
-   Legt sein Reichtum bei dir ein.  
+   legt sein Reichtum bei dir ein.  
    Seine Gnad ist deine Kron  
-   Und du bist sein Hütt' und Thron.  
+   und du bist sein Hütt’ und Thron.  
    Er hat dich in sich geschlossen,  
-   Nennt dich seinen Hausgenossen.
-
+   nennt dich seinen Hausgenossen.  
 10. Seines Himmels güldne Decke  
-  Spannt er um dich ringsherum,  
-  Daß dich fort nicht mehr erschrecke  
-  Deines Feindes Ungestüm.  
-  Seine Engel stellen sich  
-  Dir zur Seiten, wann du dich  
-  Hier willst oder dorthin wenden,  
-  Tragen sie dich auf den Händen.
-
+    spannt er um dich ringsherum,  
+    daß dich fort nicht mehr erschrecke  
+    deines Feindes Ungestüm.  
+    Seine Engel stellen sich  
+    dir zur Seiten, wann du dich  
+    hier willst oder dorthin wenden,  
+    tragen sie dich auf den Händen.  
 11. Was du Böses hast begangen,  
-    Das ist alles abgeschafft.  
+    das ist alles abgeschafft.  
     Gottes Liebe nimmt gefangen  
-    Deiner Sünde Macht und Kraft.  
+    deiner Sünde Macht und Kraft.  
     Christi Sieg behält das Feld,  
-    Und was Böses in der Welt  
-    Sich will wider dich erregen,  
-    Wird zu lauter Glück und Segen.
-
+    und was Böses in der Welt  
+    sich will wider dich erregen,  
+    wird zu lauter Glück und Segen.  
 12. Alles dient zu deinem Frommen,  
-    Was dir bös und schädlich scheint,  
-    Weil dich Christus angenommen  
-    Und es treulich mit dir meint.  
-    Bleibst du deme wieder treu,  
-    Ist's gewiß und bleibt dabei,  
-    Daß du mit den Engeln droben  
-    Ihn dort ewig werdest loben.
-
+    was dir bös und schädlich scheint,  
+    weil dich Christus angenommen  
+    und es treulich mit dir meint.  
+    Bleibst du deine wieder treu,  
+    ist’s gewiß und bleibt dabei,  
+    daß du mit den Engeln droben  
+    ihn dort ewig werdest loben.  

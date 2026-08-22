@@ -1,60 +1,60 @@
 1. Nun laßt uns gehn und treten  
-   Mit Singen und mit Beten  
-   Zum Herrn, der unserm Leben  
-   Bis hierher Kraft gegeben.  
+   mit Singen und mit Beten  
+   zum Herrn, der unserm Leben  
+   bis hierher Kraft gegeben.  
 2. Wir gehn dahin und wandern  
-   Von einem Jahr zum andern,  
-   Wir leben und gedeihen  
-   Vom alten zu dem neuen.  
-3. Durch so viel Angst und Plagen,  
-   Durch Zittern und durch Zagen,  
-   Durch Krieg und große Schrecken,  
-   Die alle Welt bedecken.  
+   von einem Jahr zum andern  
+   wir leben und gedeihen  
+   vom alten bis zum neuen;  
+3. Durch soviel Angst und Plagen,  
+   durch Zittern und durch Zagen,  
+   durch Krieg und große Schrecken,  
+   die alle Welt bedecken.  
 4. Denn wie von treuen Müttern  
-   In schweren Ungewittern  
-   Die Kindlein hier auf Erden  
-   Mit Fleiß bewahret werden:  
-5. Also auch und nicht minder  
-   Läßt Gott ihm seine Kinder,  
-   Wenn Not und Trübsal blitzen,  
-   In seinem Schoße sitzen.  
+   in schweren Ungewittern  
+   die Kindlein hier auf Erden  
+   mit Fleiß bewahret werden:  
+5. Also auch nichts minder  
+   läßt Gott ihm seine Kinder,  
+   wenn Not und Trübsal blitzen,  
+   in seinem Schöße sitzen.  
 6. Ach Hüter unsers Lebens,  
-   Fürwahr, es ist vergebens  
-   Mit unserm Tun und Machen,  
-   Wo nicht dein' Augen wachen.  
+   fürwahr, es ist vergebens  
+   mit unserm Tun und Machen,  
+   wo nicht dein Augen wachen.  
 7. Gelobt sei deine Treue,  
-   Die alle Morgen neue,  
-   Lob sei den starken Händen,  
-   Die alles Herzleid wenden!  
+   die alle Morgen neue,  
+   lob sei den starken Händen,  
+   die alles Herzleid wenden.  
 8. Laß ferner dich erbitten,  
    O Vater, und bleib mitten  
-   In unserm Kreuz und Leiden  
-   Ein Brunnen unsrer Freuden.  
+   in unserm Kreuz und Leiden  
+   ein Brunnen unsrer Freuden.  
 9. Gib mir und allen denen,  
-   Die sich von Herzen sehnen  
-   Nach dir und deiner Hulde,  
-   Ein Herz, das sich gedulde!  
+   die sich von Herzen sehnen  
+   nach dir und deiner Hulde,  
+   ein Herz, das sich gedulde.  
 10. Schleuß zu die Jammerpforten  
-   Und laß an allen Orten  
-   Auf so viel Blutvergießen  
-   Die Friedenströme fließen.  
+    und laß an allen Orten  
+    auf so viel Blutvergießen  
+    die Freudenströme fließen.  
 11. Sprich deinen milden Segen  
-   Zu allen unsern Wegen,  
-   laß Großen und auch Kleinen  
-   Die Gnadensonne scheinen!  
+    zu allen unsern Wegen,  
+    laß Großen und auch Kleinen  
+    die Gnadensonne scheinen.  
 12. Sei der Verlaßnen Vater,  
-   Der Irrenden Berater,  
-   Der Unversorgten Gabe,  
-   Der Armen Gut und Habe!  
+    der Irrenden Berater,  
+    der Unversorgten Gabe,  
+    der Armen Gut und Habe.  
 13. Hilf gnädig allen Kranken,  
-   Gib fröhliche Gedanken  
-   Den hochbetrübten Seelen,  
-   Die sich mit Schwermut quälen!  
-14. Und endlich, was das meiste,  
-   Füll uns mit deinem Geiste,  
-   Der uns hier herrlich ziere  
-   Und dort zum Himmel führe!  
+    gib fröhliche Gedanken  
+    den hochbetrübten Seelen,  
+    die sich mit Schwermut quälen.  
+14. Und endlich, was das Meiste,  
+    füll uns mit deinem Geiste,  
+    der uns hier herrlich ziere  
+    und dort zum Himmel führe.  
 15. Das alles wollst du geben,  
-   O meines Lebens Leben,  
-   Mir und der Christenschare  
-   Zum selgen neuen Jahre!  
+    O meines Lebens Leben,  
+    mir und der Christen Schare  
+    zum selgen neuen Jahre.  
