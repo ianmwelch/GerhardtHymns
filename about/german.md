@@ -5,4 +5,4 @@ order: 1
 layout: page
 ---
 
-The hymns of Paul Gerhardt are presented in modern German. Minor differences in spelling can be seen between the original publications of the text and what is common in Germany today. Notable deviations of the text between the works of [Crüger](/authors/crüger), [Ebeling](/authors/ebeling), and [Feustking](/authors/feustking) are provided in footnotes. It is quite possible that any changes made to the texts were revisions done by Gerhardt himself before his death.
+The original texts of Paul Gerhardt are presented in modern German with only a few exceptions where it would influence the meter, syllabic stress, or rhyme of a hymn. In general, minor differences in spelling can be seen between the original publications of the text and what is common in Germany today. Notable deviations of the text between the works of [Crüger](/authors/crüger), [Ebeling](/authors/ebeling), and [Feustking](/authors/feustking) may be provided in footnotes.

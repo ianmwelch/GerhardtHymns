@@ -16,7 +16,7 @@ feustking:
   - name: 1
     link: /hymns/001/scans/001-feustking.pdf
 zahn:
-  - name: 5438 (Crüger)
+  - name: 5438–5440
     link: /hymns/001/scans/zahn-5438.pdf
 bwv: 248.5 (Befiehl du deine Wege)
 layout: hymn
