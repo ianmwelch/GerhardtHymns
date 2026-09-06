@@ -1,6 +1,6 @@
 ---
 title: Liebes Kind, wenn ich bei mir
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 123
 hymn_year: 1660
 hymn_meter: 77 88

@@ -1,6 +1,6 @@
 ---
 title: Ich bin ein Gast auf Erden
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 128
 hymn_year: 1666
 hymn_meter: 76 76 D

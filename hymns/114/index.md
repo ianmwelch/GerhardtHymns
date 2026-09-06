@@ -1,6 +1,6 @@
 ---
 title: Mein Gott, ich habe mir
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 114
 hymn_year: 1648
 hymn_meter: 66 77 77

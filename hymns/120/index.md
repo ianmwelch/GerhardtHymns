@@ -1,6 +1,6 @@
 ---
 title: Die Zeit ist nunmehr nah
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 120
 hymn_year: 1653
 hymn_meter: 66 77 77

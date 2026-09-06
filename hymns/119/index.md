@@ -1,6 +1,6 @@
 ---
 title: Erhebe dich, betrübtes Herz
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 119
 hymn_year: 1651
 hymn_meter: 887 87

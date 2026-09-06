@@ -1,6 +1,6 @@
 ---
 title: Mein herzer Vater, weint ihr noch
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 116
 hymn_year: 1650
 hymn_meter: 87 87 887 887

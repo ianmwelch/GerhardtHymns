@@ -1,6 +1,6 @@
 ---
 title: So geht der alte liebe Herr nun auch dahin
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 132
 hymn_year: 1667
 hymn_meter: 12 13 12 13

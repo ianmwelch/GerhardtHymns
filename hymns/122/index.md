@@ -1,6 +1,6 @@
 ---
 title: Herr Lindholtz legt sich hin
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 122
 hymn_year: 1659
 hymn_meter: 67 67 66 66

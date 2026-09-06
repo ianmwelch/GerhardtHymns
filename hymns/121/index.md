@@ -1,6 +1,6 @@
 ---
 title: Leid ist mirs in meinem Herzen
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 121
 hymn_year: 1667
 hymn_meter: 87 87 88

@@ -1,6 +1,6 @@
 ---
 title: Johannes sahe durch Gesicht
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 134
 hymn_year: 1667
 hymn_meter: 847 847 44 44 7

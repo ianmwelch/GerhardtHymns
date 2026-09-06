@@ -1,6 +1,6 @@
 ---
 title: Was traurest du, mein Angesicht
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 129
 hymn_year: 1667
 hymn_meter: 87 87 447

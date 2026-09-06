@@ -1,6 +1,6 @@
 ---
 title: Du bist zwar mein und bleibest mein
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 117
 hymn_year: 1650
 hymn_meter: 87 87 88 77

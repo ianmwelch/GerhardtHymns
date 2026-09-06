@@ -1,6 +1,6 @@
 ---
 title: Herr Gott, du bist ja für und für
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 127
 hymn_year: 1666
 hymn_meter: 87 87 887

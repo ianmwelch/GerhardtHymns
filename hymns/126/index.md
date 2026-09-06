@@ -1,6 +1,6 @@
 ---
 title: Hörst du hier Ewigkeit
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 126
 hymn_year: 1664
 hymn_meter: 78 87 88

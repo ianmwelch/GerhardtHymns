@@ -1,6 +1,6 @@
 ---
 title: Nun sei getrost und unbetrübt
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 125
 hymn_year: 1664
 hymn_meter: 87 87 887

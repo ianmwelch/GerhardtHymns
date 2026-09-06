@@ -1,6 +1,6 @@
 ---
 title: Wer selig stirbt, sterbt nicht
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 133
 hymn_year: 1668
 hymn_meter: 69 96 99

@@ -1,6 +1,6 @@
 ---
 title: Ich weiß, daß mein Erlöser lebt
-category: Death and Burial
+category: Death and Eternal Life
 hymn_number: 130
 hymn_year: 1667
 hymn_meter: 87 87 887

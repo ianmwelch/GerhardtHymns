@@ -160,10 +160,10 @@ layout: page-full
       {% endif %}
 {% endfor %}
 
-<h3>Death and Burial</h3>
+<h3>Death and Eternal Life</h3>
 
 {% for page in sortedPages %}
-      {% if page.category contains 'Death and Burial' %}
+      {% if page.category contains 'Death and Eternal Life' %}
         <p><a href='{{ page.url | prepend: site.baseurl }}'><b class="bold-number">{{ page.hymn_number }}</b>&emsp;&emsp;{{ page.title }}</a></p>
       {% endif %}
 {% endfor %}
