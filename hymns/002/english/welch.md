@@ -2,8 +2,10 @@
 title: Why Remain Outside My Dwelling
 title_original: Warum willst du draußen stehen
 hymn_language: English
-hymn_author: Ian Welch
+hymn_author:
+  - name: Ian Welch
 hymn_source:
+  - name: © Ian Welch
 hymn_year: 2026
 hymn_meter: 87 87 77 88
 number: 2
