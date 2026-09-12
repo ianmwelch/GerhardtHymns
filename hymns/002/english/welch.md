@@ -11,6 +11,8 @@ link: /hymns/002
 layout: hymn-text
 ---
 
+*Text © Ian M. Welch*
+
 1. Why remain outside my dwelling,  
    blessed One, O Lord most dear?  
    Come inside, my heart compelling  
