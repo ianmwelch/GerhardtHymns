@@ -24,11 +24,13 @@ workflow: music
 ---
 Based on Genesis 24:31. This hymn appeared in [Crüger's](/authors/crüger) *Praxis pietatis melica*, 1653, no. 78, in 9 stanzas of 8 lines (1–7, 11, 12). Stanzas 8–10 were added in [Ebeling](/authors/ebeling), 1667, 5, no. 50. The full text also appeared in [Feustking's](/authors/feustking) *Pauli Gerhardi Geistreiche Hauss- und Kirchen-Lieder*, 1707, p. 5.
 
-## English Translations
+## Translations
+
+Only a few, mostly truncated, translations have been published of this hymn. 
 
 {% include_relative translations.md %}
 
-
+## Tunes
 
 [Information]
 
