@@ -16,7 +16,7 @@ feustking:
   - name: 5
     link: /hymns/002/scans/002-feustking.pdf
 zahn:
-  - name: 6559 (Crüger)
+  - name: 6559–6563
     link: /hymns/002/scans/zahn-6559.pdf
 bwv: —
 layout: hymn
