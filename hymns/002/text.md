@@ -6,7 +6,6 @@
    Helfer in der rechten Zeit,  
    hilf, O Heiland, meinem Herzen  
    von den Wunden, die mich schmerzen.  
-
 2. Meine Wunden sind der Jammer,  
    welchen oftmals Tag und Nacht  
    des Gesetzes starker Hammer  

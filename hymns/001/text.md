@@ -6,7 +6,6 @@
    mir selbst die Fackel bei,  
    damit, was dich ergötze,  
    mir kund und wissend sei.  
-   
 2. Dein Zion streut dir Palmen. 
    und grüne Zweige hin,  
    und ich will dir in Psalmen. 
