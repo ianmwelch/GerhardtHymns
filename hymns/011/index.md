@@ -14,5 +14,14 @@ bwv: —
 layout: hymn
 workflow: text
 ---
-[information]
+[Information]
 
+## Translations
+
+[Information]
+
+{% include_relative translations.md %}
+
+## Tunes
+
+[Information]

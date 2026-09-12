@@ -14,7 +14,14 @@ bwv: 248.17 (Von Himmel Hoch)
 layout: hymn
 workflow: text
 ---
-[information]
+[Information]
 
+## Translations
 
+[Information]
 
+{% include_relative translations.md %}
+
+## Tunes
+
+[Information]

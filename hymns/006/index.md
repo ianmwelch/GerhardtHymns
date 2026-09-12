@@ -14,7 +14,16 @@ bwv: 248.59 (Es ist gewißlich), 469 (Ich steh an deiner Krippe)
 layout: hymn
 workflow: text
 ---
-[information]
+[Information]
 
+## Translations
+
+[Information]
+
+{% include_relative translations.md %}
+
+## Tunes
+
+[Information]
 
 

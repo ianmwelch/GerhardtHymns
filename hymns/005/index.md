@@ -14,5 +14,17 @@ bwv: 248.33 (Warum sollt' ich mich denn grämen)
 layout: hymn
 workflow: text
 ---
-[information]
+[Information]
+
+## Translations
+
+[Information]
+
+{% include_relative translations.md %}
+
+## Tunes
+
+[Information]
+
+
 

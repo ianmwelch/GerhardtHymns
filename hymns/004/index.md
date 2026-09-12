@@ -9,10 +9,20 @@ hymn_scripture:
 cruger: 189
 ebeling: 51
 feustking: 12
-zahn: 2074 (Crüger)
+zahn: 2074–75
 bwv: —
 layout: hymn
 workflow: text
 ---
 [information]
+
+## Translations
+
+[Information]
+
+{% include_relative translations.md %}
+
+## Tunes
+
+[Information]
 
