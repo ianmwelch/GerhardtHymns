@@ -13,22 +13,8 @@
   <b>year</b><p>{{ page.hymn_year }}</p>
   <b>stanzas</b><p>{{ page.hymn_stanzas }}</p>
   <b>meter</b><p>{{ page.hymn_meter }}</p>
-  <b>crüger</b>
-  {% for item in page.cruger %}
-        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
-  {% endfor %}
-  <b>ebeling</b>
-  {% for item in page.ebeling %}
-        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
-  {% endfor %}
-  <b>feustking</b>
-  {% for item in page.feustking %}
-        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
-  {% endfor %}
-  <b>zahn</b>
-  {% for item in page.zahn %}
-        <p><a href="{{ item.link }}">{{ item.name }}</a></p>
-  {% endfor %}
+  <b>sources</b><p>{{ page.hymn_source }}</p>
+  <b>zahn</b><p>{{ page.zahn }}</p>
   <b>bwv</b><p>{{ page.bwv }}</p>
   <b>scripture</b><p>{{ page.hymn_scripture | join: ', ' }}</p>
   <br>
