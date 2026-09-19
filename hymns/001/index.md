@@ -6,31 +6,17 @@ hymn_year: 1653
 hymn_meter: 76 76 D
 hymn_stanzas: 10
 hymn_scripture: Matthew 21:1-9
-cruger:
-  - name: 155.81
-    link: /hymns/001/scans/001-crüger.pdf
-ebeling: 
-  - name: 49
-    link: /hymns/001/scans/001-ebeling.pdf
-feustking: 
-  - name: 1
-    link: /hymns/001/scans/001-feustking.pdf
-zahn:
-  - name: 5438–5440
-    link: /hymns/001/scans/zahn-5438.pdf
+hymn_source: Pr53 81.155, E 49, F 1, W 3, B 22, G 10, AE 61, FT 401
+zahn: 5438–5440
 bwv: 248.5 (Befiehl du deine Wege)
 layout: hymn
 workflow: music
 ---
-Intended to be sung the first Sunday in Advent, this hymn was first included in [Crüger's](/authors/crüger) *Praxis pietatis melica*, 1653, no. 81, in 10 stanzas of 8 lines. It later appeared in [Ebeling's](/authors/ebeling) *Pauli Gerhardi Geistliche Andachten*, 1666/67, no. 49, and in [Feustking's](/authors/feustking) *Pauli Gerhardi Geistreiche Hauss- und Kirchen-Lieder*, 1707, p. 1.
-
-## Form
+Intended to be sung the first Sunday in Advent, this hymn was first included in [Crüger's](/authors/crüger) *Praxis pietatis melica*, 1653, no. 81, in 10 stanzas of 8 lines. It later appeared in [Ebeling's](/authors/ebeling) *Pauli Gerhardi Geistliche Andachten*, 1666/67, no. 49.
 
 Gerhardt bases this hymn on the *Hildebrandslied* (Song of Hildebrand, c. 830)—one of the earliest Germanic poems—using two cross rhymes. The meter and rhyme scheme are popular in folk and church songs at the time. However, in contrast to medieval poetry, alliteration is sparse (e.g., "da Fried und Freude lacht").
 
 The stanzas consist of two cross-rhymes, alternating soft and hard endings. The hymn uses four paired lines: the climax being in the caesura after the second pair.  The caesura is followed by a declaration and call to prayer (e.g., "O Jesu, Jesu," "er kommt, er kommt," and "ach komm, ach komm").
-
-## Content
 
 The hymn is divided in two parts: Stanzas 1–5 and 6–10. The first part is prayerfully addressed to Jesus—characterized by the verbs "empfangen" (to receive) and umfangen (to embrace). They unfold as an individual address to the coming Christ God's unconditional devotion to human beings, as recognized by the Lutheran doctrine of justification. This is done with reference to the parable of the wise and foolish virgins (Matthew 25:1-15) with "die Fackel" (the torch) in stanza 1 and by implementing the pericope of the first Sunday in Advent, Jesus' entry into Jerusalem (Matthew 21:1-9) in stanza 2. Gerhardt now calls on Jesus to enter into the heart of the Christians.
 

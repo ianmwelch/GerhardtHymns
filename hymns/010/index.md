@@ -5,52 +5,24 @@ hymn_number: 10
 hymn_year: 1653
 hymn_meter: 77 77
 hymn_stanzas: 15
-cruger:
-  - name: 215.106
-    link: /hymns/010/scans/010-crüger.pdf
-ebeling:
-  - name: 58
-    link: /hymns/010/scans/010-ebeling.pdf
-feustking:
-  - name: 20
-    link: /hymns/010/scans/010-feustking.pdf
-zahn:
-  - name: 159 (Crüger)
-    link: /hymns/010/scans/zahn-159.pdf
-  - name: 176 (Ebeling)
-    link: /hymns/010/scans/zahn-176.pdf
+hymn_source: Pr53 118.215, E 58, F 20, W12, B 24, G 7, AE 7, FT 407
+Zahn: 159, 176–179
 bwv: 
 hymn_scripture: ["Psalm 46:4", "Psalm 87:7", "Isaiah 12:3"]
 layout: hymn
 workflow: analysis
 ---
-Most likely written during the Thirty Years' War. It first appeared in [Crüger's](/authors/crüger) *Praxis pietatis melica*, 1653, no. 106, in 15 stanzas of 4 lines. Later in [Ebeling's](/authors/ebeling) *Pauli Gerhardi Geistliche Andachten*, 1666/67, no. 58, and [Feustking's](/authors/feustking) *Pauli Gerhardi Geistreiche Hauss- und Kirchen-Lieder*, 1707, p. 20.
-
-## Form 
+Most likely written during the Thirty Years' War. It first appeared in [Crüger's](/authors/crüger) *Praxis pietatis melica*, 1653, no. 106, in 15 stanzas of 4 lines. Later in [Ebeling's](/authors/ebeling) *Pauli Gerhardi Geistliche Andachten*, 1666/67, no. 58.
 
 Gerhardt uses a pair of rhyming couplets for each stanza (AABB) and utilizes numerous word pairs across this hymn (gehn und treten, tun und machen, Großen und Kleinen, etc.). It consists of two main parts: praising God for his protection and faithfulness (st. 1–7) and asking for his blessings (st. 8–15), which are intensified by the use of monosyllabic verbs that begin each petition in stanzas 8–13 (Laß, Gib, Schleuß, Sprich, Sei, and Hilf). The first-person plural is used (uns, wir) throughout, while the petition in stanza 9 is sung in the first-person singular (mir).
-
-## Content
 
 The song is intended for celebrations of the New Year as made clear in stanzas 2 and 15. Given the content of this hymn, we can assume that it was written sometime during the Thirty Years' War (stanzas 3 and 10).
 
 The hymn invites us to approach God with singing and prayer (stanza 1). Gerhard then shifts from the picture of walking (gehn) to that of a feeling of wandering (wandern) through the passage of time in stanza 2. This is emphasized in stanza 3, which gives an escalating series of sufferings that people were enduring at the time.
 
-In response to this sense of aimless wandering through the horrors of the time in which they lived, stanzas 4 and 5 offer pictures of comfort in that of a faithful mother (Isaiah 66:13) and ultimately, our heavenly Father (1 John 5:18):
+In response to this sense of aimless wandering through the horrors of the time in which they lived, stanzas 4 and 5 offer pictures of comfort in that of a faithful mother (Isaiah 66:13) and ultimately, our heavenly Father (1 John 5:18).
 
-> As a mother comforts her child,  
-> so will I comfort you;
-
-> We know that anyone born of God does not continue to sin; the One who was born of God keeps them safe, and the evil one cannot harm them.
-
-Stanza 6 reflects on the futility of our endeavors without this protection and preservation from our Lord. Here Gerhardt alludes to the first verse of Psalm 127: 
-
-> Unless the Lord builds the house,  
-> the builders labor in vain.  
-> Unless the Lord watches over the city,  
-> the guards stand watch in vain.
-
-This is then followed by a statement of praise at the central point of the hymn, which summarizes Lamentations 3:22-23:
+Stanza 6 reflects on the futility of our endeavors without this protection and preservation from our Lord. Here Gerhardt alludes to the first verse of Psalm 127. This is then followed by a statement of praise at the central point of the hymn, which summarizes Lamentations 3:22-23:
 
 > Because of the Lord’s faithful love we do not perish,  
 > for his mercies never end.  

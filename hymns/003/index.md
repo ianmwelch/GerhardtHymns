@@ -6,9 +6,7 @@ hymn_year: 1653
 hymn_meter: 88 88
 hymn_stanzas: 20
 hymn_scripture: 
-cruger: 186.100
-ebeling: 52
-feustking: 14
+hymn_source: Pr53 100.186, E52, F14, W 10, B 42, G 55, AE 62, FT 403
 zahn: 700
 bwv: 248.23 (Von Himmel Hoch)
 layout: hymn
