@@ -6,7 +6,7 @@ hymn_year: 1653
 hymn_meter: 77 77
 hymn_stanzas: 15
 hymn_source: Pr53 118.215, E 58, F 20, W12, B 24, G 7, AE 7, FT 407
-Zahn: 159, 176–179
+zahn: 159, 176–179
 bwv: 
 hymn_scripture: ["Psalm 46:4", "Psalm 87:7", "Isaiah 12:3"]
 layout: hymn
