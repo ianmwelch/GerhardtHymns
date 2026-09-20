@@ -5,7 +5,7 @@ order: 2
 layout: page
 ---
 
-This is a list of some of the works that were frequently consulted when researching the work and life of [Paul Gerhardt](/authors/gerhardt). Books of musical settings and audio are also cited.
+This page will eventually include a complete list of works that were frequently consulted when researching the work and life of [Paul Gerhardt](/authors/gerhardt). Books of musical settings and audio are also cited.
 
 ### Text Sources
 
@@ -13,7 +13,7 @@ This is a list of some of the works that were frequently consulted when research
 Crüger, Johann. *Praxis Pietatis Melica*, 1648 and later.  
 [Ebeling, Johann](/authors/ebeling). *Pauli Gerhardi Geistliche Andachten*. Berlin, 1666–1667.  
 [Feustking, Johann](/authors/feustking). *Gerhardts Geistreiche Haus- und Kirchenlieder*. Zerbst, 1707.  
-[Kelly, John](authors/kelly). *Paul Gerhardt's Spiritual Songs*. London, 1867.  
+[Kelly, John](authors/kelly_j). *Paul Gerhardt's Spiritual Songs*. London, 1867.  
 [Massie, Richard](/authors/massie_r). *Lyra Domestica*. London, 1860, 1864.  
 [Winkworth, Catherine](/authors/winkworth). *Lyra Germanica*, First Series, 1855. Second Series, 1858.  
 Winkworth, Catherine. *Chorale Book for England*, 1863.  
